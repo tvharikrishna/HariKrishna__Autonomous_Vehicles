@@ -1,12 +1,12 @@
 <p align="center">
-    <img src="readme_data/title.png" alt="Why we chose this project" width="1500"/>
+    <img src="readme_data/project_title.png" alt="Why we chose this project" width="1500"/>
 </p>
 
 <br>
 <br>
 
 <p align="center">
-    <img src="readme_data/what.png" alt="Why we chose this project" width="800"/>
+    <img src="readme_data/project_what.png" alt="Why we chose this project" width="800"/>
 </p>
 
 <p align="center"><h3>Project Purpose</h3></p>
@@ -25,7 +25,7 @@ Detail how you implemented the model using the Robot Operating System (ROS), inc
 Discuss any significant challenges you faced during the project and how you addressed them. This could include issues with simulation, real-world testing, or integration with ROS.
 
 <p align="center">
-    <img src="readme_data/why.png" alt="How we implemented the project" width="1500"/>
+    <img src="readme_data/project_why.png" alt="How we implemented the project" width="1500"/>
 </p>
 
 ## What
@@ -40,7 +40,7 @@ Provide examples of how to use your model, including code snippets, command line
 Outline potential extensions or improvements to your project. Consider current limitations and how future work could overcome these.
 
 <p align="center">
-    <img src="readme_data/how.png" alt="What the project accomplishes" width="1500"/>
+    <img src="readme_data/project_how.png" alt="What the project accomplishes" width="1500"/>
 </p>
 
 ## Getting Started
