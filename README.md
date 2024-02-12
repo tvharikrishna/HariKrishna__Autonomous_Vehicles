@@ -59,5 +59,5 @@
 <br>
 
 <p align="center">
-    <img src="readme_data/autonomous_driving_funny_endquote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
 </p>
