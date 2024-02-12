@@ -9,6 +9,10 @@
 
 ▸ Scenarios for critical response training, including unexpected roadblocks, vehicle breakdowns, and unpredictable actions from pedestrians and other drivers.
 
+<p align="center">
+    <img src="hk_carla_window.png" alt="Alt text for your image" width="1500"/>
+</p>
+
 </p>
 
 # 🔻Repository Detail
@@ -21,12 +25,12 @@
 
 ## Route Map
 <p align="center">
-    <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
+    <img src="roadmap.png" alt="Alt text for your image" width="1500"/>
 </p>
 
 ## Sensors Technoology
 <p align="center">
-    <img src="main_title_1.png" alt="Alt text for your image" width="1500"/>
+    <img src="sensors.png" alt="Alt text for your image" width="1500"/>
 </p>
 
 ## Youtube Series
