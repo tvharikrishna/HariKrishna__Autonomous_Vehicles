@@ -9,11 +9,11 @@
     <img src="readme_data/project_what.png" alt="Why we chose this project" width="600"/>
 </p>
 
-<p align="center"><h3>Project Purpose</h3></p>
+<p align="center"><h3>🫸🏼Project Purpose</h3></p>
 Briefly describe the purpose of developing the bicycle kinematics model using ROS Robotics. Mention the challenges in robotics mobility and navigation that your project aims to address.
 
 
-## How
+## 🫸🏼 How
 
 ### ## Tools and Framework
 Provide an overview of the bicycle kinematics model, including its theoretical foundation and why it's suitable for your project goals.
