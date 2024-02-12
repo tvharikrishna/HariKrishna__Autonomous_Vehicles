@@ -24,21 +24,22 @@
 <p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations and a roadmap that I've created, along with a highly valuable free YouTube course.</p>
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
-      <td align="center"><b>Route Map</b></td>
+      <td align="center"><b style="font-size:54px;">Route Map</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="readme_data/roadmap.png" alt="Route Map" width="750"/></td>
+      <td align="center"><img src="readme_data/roadmap.png" alt="Route Map" width="900"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Sensors Technology</b></td>
+      <td align="center"><b style="font-size:54px;">Sensors Technology</b></td>
     </tr>
     <tr>
       <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="650"/></td>
     </tr>
   </table>
 </p>
+
 
 ### Free Valuable Youtube Series
 ▸ Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen)
@@ -49,9 +50,6 @@
 
 <hr>
 
-
-### ⚓️ Don't forget to wear  ⚓️ 🧩
-
-<div align="center">
-    <p>  ⚓️  HAPPY AUTONOMOUS ☻  </p>
-</div>
+<p align="center">
+    <img src="readme_data/autonomous_driving_funny_quote.png" alt="Alt text for your image" width="1500"/>
+</p>
