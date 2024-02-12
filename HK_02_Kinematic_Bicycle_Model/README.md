@@ -8,7 +8,7 @@
 
 <!------ WHAT ------>
 <p align="center">
-    <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
+    <img src="readme_data/whatt.png" alt="Why we chose this project" width="600"/>
 </p>
 
 <p align="center"><h3>🎀 Essence of the Project</h3></p>
