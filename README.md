@@ -17,7 +17,7 @@
 
 </p>
 
-# 🔻Repository Detail
+# 🔻 Repository Detail
 
 <p align='justify'>This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.</p>
 
@@ -42,7 +42,7 @@
   </table>
 </p>
 
-## Free Valuble Youtube Course
+#🔻 Free Valuble Youtube Course
 
 <table>
 <tr>
