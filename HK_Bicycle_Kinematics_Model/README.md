@@ -3,15 +3,10 @@
 </p>
 
 <br>
-
-<p align="center">
-    <img src="readme_data/project_img_title.png" alt="Why we chose this project" width="1500"/>
-</p>
-
 <br>
 
 <p align="center">
-    <img src="readme_data/project_what.png" alt="Why we chose this project" width="800"/>
+    <img src="readme_data/project_what.png" alt="Why we chose this project" width="600"/>
 </p>
 
 <p align="center"><h3>Project Purpose</h3></p>
