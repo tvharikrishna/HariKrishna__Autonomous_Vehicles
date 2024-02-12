@@ -48,8 +48,10 @@
   <img src="https://img.shields.io/badge/YouTube-Series-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Series" width="200"/>
 </a>
 
-<hr>
+<br>
+<br>
+<br>
 
 <p align="center">
-    <img src="readme_data/autonomous_driving_funny_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/autonomous_driving_funny_endquote.png" alt="Alt text for your image" width="1500"/>
 </p>
