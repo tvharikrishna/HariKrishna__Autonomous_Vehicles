@@ -42,7 +42,7 @@
   </table>
 </p>
 
-#🔻 Free Valuble Youtube Course
+# 🔻 Free Valuble Youtube Course
 
 <table>
 <tr>
