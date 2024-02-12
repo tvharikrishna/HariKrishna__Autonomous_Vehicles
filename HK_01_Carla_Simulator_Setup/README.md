@@ -1,7 +1,7 @@
 # Introduction to Carla Simulator & Setup Guide
 
 <p align="center">
-  <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
+  <img src="readme_data/project_title.png" alt="Project Logo Cover" width="1500"/>
 </p>
 
 ---------------------------------------------
@@ -118,7 +118,7 @@ To address this, we have outlined some common errors and their respective troubl
 ## `ERROR 1 ➞ Inadequate GPU Resources`
 
 <p align="center">
-  <img src="data/error_1.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_1.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -133,7 +133,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ## `ERROR 2 == Disable NVIDIA Vulkan Driver Permanently`
 
 <p align="center">
-  <img src="data/error 2.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error 2.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -144,7 +144,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ## `ERROR 3 == When "./CarlaUE4.sh -opengl" FAILS`
 
 <p align="center">
-  <img src="data/error 3.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error 3.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `About The Error` <br>
@@ -162,14 +162,14 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 • The purpose of setting this variable might be to resolve a driver conflict or to force the application to use a specific graphics driver, particularly if there are multiple drivers installed on the system that could potentially handle Vulkan.
 
 <p align="center">
-  <img src="data/error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 
 ## `ERROR 4 == No Module Named Carla` 
 
 <p align="center">
-  <img src="data/error_4.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_4.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -180,7 +180,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ## `No Error Free == Launch Successfull`
 
 <p align="center">
-  <img src="data/succeed.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//succeed.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 
@@ -205,7 +205,8 @@ To resolve this, open the `camera.py` file and, at the end of the file, replace 
 
 
 ---------------------------------------------
+<br>
 
-<div align="center">
-    <p>  ☻  HAPPY AUTONOMOUS ☻  </p>
-</div>
+<p align="center">
+  <img src="readme_data//funny_endquote_autonomous_driving.png" alt="Project Logo Cover" width="700"/>
+</p>
