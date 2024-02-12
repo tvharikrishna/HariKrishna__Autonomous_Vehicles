@@ -50,9 +50,6 @@
 
 <hr>
 
-
-### ⚓️ Don't forget to wear  ⚓️ 🧩
-
-<div align="center">
-    <p>  ⚓️  HAPPY AUTONOMOUS ☻  </p>
-</div>
+<p align="center">
+    <img src="readme_data/autonomous_driving_funny_quote.png" alt="Alt text for your image" width="1500"/>
+</p>
