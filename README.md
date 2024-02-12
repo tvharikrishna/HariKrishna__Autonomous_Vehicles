@@ -1,3 +1,5 @@
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥..</p>
+
 # 🔻 What is Carla Simulator?
 
 <p align='justify'>
@@ -15,7 +17,7 @@
 
 </p>
 
-# 🔻Repository Detail
+# 🔻 Repository Detail
 
 <p align='justify'>This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.</p>
 
@@ -35,21 +37,27 @@
       <td align="center"><b style="font-size:54px;">Sensors Technology</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="650"/></td>
+      <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="800"/></td>
     </tr>
   </table>
 </p>
 
+# 🔻 Free Valuble Youtube Course
 
-### Free Valuable Youtube Series
-▸ Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen)
-
-<a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr">
-  <img src="https://img.shields.io/badge/YouTube-Series-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Series" width="200"/>
-</a>
+<table>
+<tr>
+<th>Professor</th>
+<th>Series</th>
+</tr>
+<tr>
+<td>Prof. Andreas Geiger, University of Tübingen</td>
+<td><a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr"><img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series"></a></td>
+</tr>
+</table>
 
 <hr>
+<br>
 
 <p align="center">
-    <img src="readme_data/autonomous_driving_funny_quote.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/autonomous_driving_funny_endquote.png" alt="Alt text for your image" width="1500"/>
 </p>
