@@ -1,3 +1,5 @@
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥..</p>
+
 # 🔻 What is Carla Simulator?
 
 <p align='justify'>
@@ -42,11 +44,16 @@
 
 ## Free Valuble Youtube Course
 
-| Professor. Andreas Geiger, University of Tübingen | [![YouTube Series](https://img.shields.io/badge/YouTube-Series-red?logo=youtube)](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-
-
-
+<table>
+<tr>
+<th>Professor</th>
+<th>Series</th>
+</tr>
+<tr>
+<td>Prof. Andreas Geiger, University of Tübingen</td>
+<td><a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr"><img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series"></a></td>
+</tr>
+</table>
 
 <hr>
 <br>
