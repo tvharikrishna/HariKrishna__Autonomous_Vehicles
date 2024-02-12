@@ -3,6 +3,11 @@
 </p>
 
 <br>
+
+<p align="center">
+    <img src="readme_data/project_img_title.png" alt="Why we chose this project" width="1500"/>
+</p>
+
 <br>
 
 <p align="center">
