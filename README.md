@@ -23,7 +23,7 @@
 
 # 🔻 Basics are key❗️
 
-<p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations and a roadmap that I've created, along with a highly valuable free YouTube course.</p>
+<p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations and a roadmap that I created.</p>
 
 <p align="center">
   <table align="center">
