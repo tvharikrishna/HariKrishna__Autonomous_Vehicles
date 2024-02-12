@@ -35,21 +35,16 @@
       <td align="center"><b style="font-size:54px;">Sensors Technology</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="650"/></td>
+      <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="800"/></td>
     </tr>
   </table>
 </p>
 
+### Free Valuable YouTube Series
+▸ Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen) [![YouTube Series](https://img.shields.io/badge/YouTube-Series-red?logo=youtube)](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
 
-### Free Valuable Youtube Series
-▸ Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen)
 
-<a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr">
-  <img src="https://img.shields.io/badge/YouTube-Series-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Series" width="200"/>
-</a>
-
-<br>
-<br>
+<hr>
 <br>
 
 <p align="center">
