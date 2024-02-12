@@ -26,13 +26,13 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center"><b style="font-size:24px;">Route Map</b></td>
+      <td align="center"><b style="font-size:54px;">Route Map</b></td>
     </tr>
     <tr>
       <td align="center"><img src="readme_data/roadmap.png" alt="Route Map" width="900"/></td>
     </tr>
     <tr>
-      <td align="center"><b style="font-size:24px;">Sensors Technology</b></td>
+      <td align="center"><b style="font-size:54px;">Sensors Technology</b></td>
     </tr>
     <tr>
       <td align="center"><img src="readme_data/sensors.png" alt="Sensors Technology" width="650"/></td>
