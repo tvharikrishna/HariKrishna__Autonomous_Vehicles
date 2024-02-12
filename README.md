@@ -40,8 +40,12 @@
   </table>
 </p>
 
-### Free Valuable YouTube Series
-▸ Self-Driving Cars (Prof. Andreas Geiger, University of Tübingen) [![YouTube Series](https://img.shields.io/badge/YouTube-Series-red?logo=youtube)](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
+## Free Valuble Youtube Course
+
+| Professor. Andreas Geiger, University of Tübingen | [![YouTube Series](https://img.shields.io/badge/YouTube-Series-red?logo=youtube)](https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+
+
 
 
 <hr>
