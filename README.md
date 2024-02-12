@@ -3,7 +3,7 @@
 # 🔻 What is Carla Simulator?
 
 <p align='justify'>
-▸ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for <stgrong>autonomous driving systems</stgrong>. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles, all designed for free and open use.
+▸ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for <stgrong>autonomous driving systems</stgrong>. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc.
   
 <p align="center">
     <img src="readme_data/hk_carla_window.png" alt="Alt text for your image" width="1500"/>
