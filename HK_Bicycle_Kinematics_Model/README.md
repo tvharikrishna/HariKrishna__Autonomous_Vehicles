@@ -11,7 +11,7 @@
     <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
 </p>
 
-<p align="center"><h3>🫸🏼 🚩 🎀 Project Descprition</h3></p>
+<p align="center"><h3>🎀 Essence of the Project</h3></p>
 ADD HERE
 
 
@@ -20,7 +20,7 @@ ADD HERE
     <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
 </p>
 
-<p align="center"><h3>🫸🏼 🚩 🎀 Project Purpose</h3></p>
+<p align="center"><h3>🎯 Project Vision</h3></p>
 ADD HERE
 
 
@@ -29,7 +29,7 @@ ADD HERE
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
-<p align="center"><h3>🫸🏼 🚩 🎀 Project Descprition</h3></p>
+<p align="center"><h3>🪓Project Implementation</h3></p>
 ADD HERE
 
 
