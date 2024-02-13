@@ -90,25 +90,6 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 <p align="center"><h2>💠 Results & Analysis </h2></p>
 
 <p align='justify'>
-▸ The results of the Bicycle Kinematic Model were documented to demonstrate the alignment between theoretical predictions and practical observations. A series of control sequences were executed, each manipulating the model's velocity and turning rate over a set duration. The initial and final positions were recorded alongside the total distance traveled, providing a quantitative measure of the model's behavior.
-</p>
-
-<p align='justify'>
-▸ For example, the <code>control sequence [1, 0.1, 5]</code> indicating a velocity of 1 unit/s, a turning rate of 0.1 rad/s, and a duration of 5 seconds resulted in a final position of <code>(-2.5586, 5.1742)</code> from the origin <code>(0,0)</code>. The model traversed a distance of approximately <code>5.77 units</code>, as calculated by the Euclidean distance formula, correlating with the model's kinematic equations.
-</p>
-
-<p align='justify'>
-▸ The precision of the model was highlighted in complex maneuvers, such as a sharp turn demonstrated by the <code>control sequence [1, 0.7, 7]</code>, which yielded a significant change in position, and a minimal distance traveled when the model performed a near-instantaneous direction reversal with the <code>sequence [-0.1, 0.8]</code>. The results confirmed the model's capability to accurately predict the effects of various control inputs on the vehicle's trajectory.
-</p>
-
-<p align='justify'>
-▸ The kinematic equations were validated against these practical outcomes, with each step of the computational process from determining velocity and heading change to calculating the change in position showing a high degree of accuracy. This rigorous analysis not only confirms the robustness of the Bicycle Kinematic Model for theoretical application but also demonstrates its potential for real-world implementation in autonomous vehicle navigation and robotics control systems.
-</p>
-
-<!------ Result and Analysis ------>
-<p align="center"><h2>💠 Results & Analysis </h2></p>
-
-<p align='justify'>
 ▸ The Bicycle Kinematic Model's testing confirmed theoretical predictions with real-world behavior. Control sequences manipulated velocity and turning rate, with resulting positions and distances traveled quantifying model accuracy.
 </p>
 
@@ -121,20 +102,15 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 </p>
 
 <p align='justify'>
-▸ Through this analysis, the model's kinematic equations proved accurate, reinforcing its suitability for advanced applications in autonomous systems and robotics.
+▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy. The insights gained point towards its promising applicability in the realm of autonomous systems, paving the way for its integration into real-world autonomous vehicle navigation and sophisticated robotic control systems.
 </p>
-
-
-
 
 <!------ Observation 4 ------>
 <p align="center">
     <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
-</p> <br>
+</p> <hr> <br>
 
-<hr> 
-<br>
-
+<!------ Smile More :) ------>
 <p align="center">
     <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
 </p>
