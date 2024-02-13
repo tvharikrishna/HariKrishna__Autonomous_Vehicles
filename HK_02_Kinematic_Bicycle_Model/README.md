@@ -18,7 +18,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 
 <p align="center">
     <img src="readme_data/model_image.png" alt="model imagge" width="500"/>
-</p>
+</p> <br> <hr> <br>
 
 <!------ WHY ------>
 <p align="center">
@@ -32,12 +32,6 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 ▸ It simplifies complex vehicle dynamics into a manageable model that captures the essential aspects of steering and motion, enabling the prediction of vehicle trajectory based on steering commands.
 
 ▸ This model is especially useful in path planning and control algorithms, where it helps in predicting the future position of the vehicle or robot, ensuring smooth navigation and adherence to desired paths or trajectories.
-
-▸ By abstracting the dynamics of a car-like vehicle into a more straightforward form, it allows for efficient computation and real-time implementation in autonomous systems.
-
-▸ The model offers a scalable solution for various types of vehicles and robots by adjusting its parameters, catering to different sizes and capabilities.
-
-▸ It provides a foundation for the development of more sophisticated dynamic models when higher fidelity is necessary for advanced maneuvers and controls.
 
 ▸ The kinematic bicycle model facilitates an intuitive understanding of how vehicles respond to steering inputs, crucial for the design and optimization of autonomous driving algorithms.
 </p>
