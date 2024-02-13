@@ -20,7 +20,7 @@
 <p align='justify'>This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.</p>
 
 # 🔻 Basics are key❗️
-<p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations and a roadmap that I created.</p>
+<p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
 
 <p align="center">
   <table align="center">
