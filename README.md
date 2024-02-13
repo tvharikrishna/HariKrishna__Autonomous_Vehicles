@@ -11,7 +11,7 @@
 
 ▸ Carla simulator offers a spectrum of extreme weather conditions such as rain, fog, storms for perception tests.
 
-▸ Traffic patterns reflecting true-to-life situations from crowded city streets and high-speed country roads to unpredictable highway traffic and nocturnal driving conditions.
+▸ Traffic patterns reflecting true-to-life situations from crowded city streets and high-speed country roads to unpredictable driving conditions.
 
 ▸ Scenarios for critical response training, including unexpected roadblocks, vehicle breakdowns, and unpredictable actions from pedestrians and other drivers.
 
