@@ -1,15 +1,13 @@
-# Introduction to Carla Simulator & Setup Guide
+<p align="right">20 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
+
+# ➡️ Introduction to Carla Simulator & Setup Guide
 
 <p align="center">
-  <img src="data/project_title.png" alt="Project Logo Cover" width="1500"/>
+  <img src="readme_data/project_title.png" alt="Project Logo Cover" width="1500"/>
 </p>
-
----------------------------------------------
 
 ## What is Carla Simulator
 The CARLA simulator is an open-source platform designed to support the development, training, and validation of autonomous driving systems. It provides a highly realistic and flexible simulation environment with customizable scenarios, built on Unreal Engine and OpenDRIVE. CARLA includes a range of features such as a sensor suite, traffic manager, and the ability to distribute workloads across multiple GPUs for enhanced performance. It's widely used for generating synthetic training data not only for autonomous vehicles but also for other robotics applications, simulating real-world urban and highway environments
-
----------------------------------------------
 
 ## Installation Prerequisites
 1) **A compatible operating system:** You will need an ***Ubuntu version that supports*** the specific version of CARLA you wish to install. For instance, CARLA `0.9.13` is compatible with `ROS-bridge` as well as `ROS-Noetic`, which operates on `Ubuntu 20.04`.
@@ -21,11 +19,7 @@ The CARLA simulator is an open-source platform designed to support the developme
 
 ---------------------------------------------
 
----------------------------------------------
-
----------------------------------------------
-
-# Installation Phases
+# ➡️ Installation Phases
 
 | Phase | Description |
 | ----- | ----------- |
@@ -36,7 +30,7 @@ The CARLA simulator is an open-source platform designed to support the developme
 
 ---------------------------------------------
 
-# PHASE 1 = Install all essential libraries and set up ROS Noetic.
+# ➡️ PHASE 1 = Install all essential libraries and set up ROS Noetic.
 The commands provided are useful for setting up a Linux-based development environment. They include updating the system, installing common tools and libraries, setting up Git, Python, and Visual Studio Code, and installing ROS Noetic. Although not all these steps are directly related to the CARLA simulator, they are necessary when configuring a fresh system to ensure that all dependencies and tools are in place for a smooth installation.
 
 
@@ -102,7 +96,7 @@ The commands provided are useful for setting up a Linux-based development enviro
 
 ---------------------------------------------
 
-# PHASE 2 = Installation of the `Carla Simulator`
+# ➡️ PHASE 2 = Installation of the `Carla Simulator`
 For this phase, you should refer to the official documentation provided by the Carla Simulator, which has proven effective for all users. <br> Pay close attention and meticulously follow the instructions from the `Before you begin` section to `Running CARLA`.
 
     https://carla.readthedocs.io/en/0.9.13/start_quickstart/
@@ -111,14 +105,16 @@ If you run into any problems, especially when trying to run Carla, that's what P
 
 ---------------------------------------------
 
-# PHASE 3 = Addressing any `errors` that may occur post-installation or during the initial run of Carla.
+# ➡️ PHASE 3 = Addressing any `errors` that may occur post-installation or during the initial run of Carla.
 In this phase, some individuals might encounter errors, whereas others might not, because errors do not occur universally. For a number of users, the process will be seamless from the start, but there will be cases where errors arise. <br> <br>
 To address this, we have outlined some common errors and their respective troubleshooting steps below, ensuring you have the guidance needed to resolve any issues that may come up while running Carla for the first time.
+
+---------------------------------------------
 
 ## `ERROR 1 ➞ Inadequate GPU Resources`
 
 <p align="center">
-  <img src="data/error_1.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_1.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -129,11 +125,12 @@ To address this, we have outlined some common errors and their respective troubl
 `About The Error` <br>
 The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicating insufficient memory to execute a command and a loss of the device connection (VK_ERROR_DEVICE_LOST), leading to a segmentation fault (Signal 11). This typically points to issues such as inadequate GPU resources, outdated drivers, or a hardware malfunction. Ensuring that your system meets CARLA's requirements, updating your graphics drivers, and checking resource availability could help resolve the problem.
 
+---------------------------------------------
 
 ## `ERROR 2 == Disable NVIDIA Vulkan Driver Permanently`
 
 <p align="center">
-  <img src="data/error 2.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error 2.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -141,10 +138,12 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 • These files tell the Vulkan loader which drivers to load on the system.<br>
 • The user lists the files in that directory and then moves the `nvidia_icd.json` file to `nvidia_icd.json.backup` ***effectively disabling the NVIDIA Vulkan driver.*** <br>
 
+---------------------------------------------
+
 ## `ERROR 3 == When "./CarlaUE4.sh -opengl" FAILS`
 
 <p align="center">
-  <img src="data/error 3.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error 3.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `About The Error` <br>
@@ -162,14 +161,15 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 • The purpose of setting this variable might be to resolve a driver conflict or to force the application to use a specific graphics driver, particularly if there are multiple drivers installed on the system that could potentially handle Vulkan.
 
 <p align="center">
-  <img src="data/error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
+---------------------------------------------
 
 ## `ERROR 4 == No Module Named Carla` 
 
 <p align="center">
-  <img src="data/error_4.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//error_4.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
 `SOLUTION`<br>
@@ -180,14 +180,12 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ## `No Error Free == Launch Successfull`
 
 <p align="center">
-  <img src="data/succeed.jpeg" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//succeed.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
-
 
 ---------------------------------------------
 
-
-# PHASE 4 = Installation of the `ROS Bridge`
+# ➡️ PHASE 4 = Installation of the `ROS Bridge`
 
 After clearing all the errors, and confirming that the simulator is running smoothly, you should be able to launch 'python3 generate_traffic.py' without any issues. If you encounter any errors with the simulator in phase 2, please resolve them before proceeding. Do not proceed if you still have errors.
 
@@ -197,15 +195,18 @@ Now, for the last step, we need to connect your Carla simulator with ROS. This c
 
 Please follow the instructions in the provided link to install the ROS Bridge for Carla.
 
+---------------------------------------------
+
 ## `ERROR == numpy.bool or np.bool error in camera.py` 
 After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' launch files, you may or may not encounter an error. If you do encounter an error, the issue will likely be in the 'camera.py' script located in the 'rosbridge' Catkin workspace.
 
 `SOLUTION`<br>
 To resolve this, open the `camera.py` file and, at the end of the file, replace `numpy.bool` with `numpy.bool_`.
 
-
 ---------------------------------------------
 
-<div align="center">
-    <p>  ☻  HAPPY AUTONOMOUS ☻  </p>
-</div>
+<br>
+
+<p align="center">
+  <img src="readme_data//funny_endquote_autonomous_driving.png" alt="Project Logo Cover" width="700"/>
+</p>
