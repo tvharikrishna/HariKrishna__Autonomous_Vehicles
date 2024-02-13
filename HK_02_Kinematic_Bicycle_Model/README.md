@@ -102,7 +102,7 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 </p>
 
 <p align='justify'>
-▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy. The insights gained point towards its promising applicability in the realm of autonomous systems, paving the way for its integration into real-world autonomous vehicle navigation and sophisticated robotic control systems.
+▸ The practical validation of the kinematic equations has established their high accuracy and reliability. Each computational step, from velocity computation to positional adjustments, adhered to theoretical expectations with precision. This thorough analysis has not only fortified the Bicycle Kinematic Model's theoretical foundations but has also illuminated its practical efficacy.
 </p>
 
 <!------ Observation 4 ------>
