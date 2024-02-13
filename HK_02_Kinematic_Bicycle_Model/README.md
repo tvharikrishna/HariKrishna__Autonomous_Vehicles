@@ -26,7 +26,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 <br>
 
 <p align="center">
-    <img src="readme_data/model.png" alt="model imagge" width="1500"/>
+    <img src="readme_data/model_image.png" alt="model imagge" width="500"/>
 </p>
 
 <!------ WHY ------>
