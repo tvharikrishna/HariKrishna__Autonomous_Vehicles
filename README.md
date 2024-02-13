@@ -13,7 +13,7 @@
 
 ▸ Traffic patterns reflecting true-to-life situations from crowded city streets and high-speed country roads to unpredictable driving conditions.
 
-▸ Scenarios for critical response training, including unexpected roadblocks, vehicle breakdowns, and unpredictable actions from pedestrians and other drivers.
+▸ Scenarios for critical response training, including unexpected roadblocks and unpredictable actions from pedestrians and other drivers.
 
 </p>
 
