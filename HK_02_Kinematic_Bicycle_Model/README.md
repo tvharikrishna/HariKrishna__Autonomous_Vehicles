@@ -1,4 +1,4 @@
-<p align="right">© Documentation by T V Hari Krishna</p>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">5 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
 
 <!------ PROJECT TITLE ------>
