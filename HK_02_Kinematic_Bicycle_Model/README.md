@@ -40,7 +40,18 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 </p>
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
-ADD HERE
+
+### Hari
+
+### Krishna
+
+## Chandana
+
+# hari 
+
+#### Janu Bangaram
+
+##### hare krishna hare krishna 
 
 
 
