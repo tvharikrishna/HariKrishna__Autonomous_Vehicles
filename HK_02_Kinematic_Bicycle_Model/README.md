@@ -41,8 +41,23 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
 
-<p align="center"><h2> Software Design & Tools </h2></p>
+<p align="center"><h3>💠 Software Design & Tools </h3></p>
+<p align='justify'>
+The project leverages the Robot Operating System (ROS) for orchestrating robot software development, enabling complex simulations and trajectory analysis. The mathematical foundation is visualized through Matplotlib, reflecting the precise kinematic behavior of the bicycle model. The intricate relationship between velocity, steering angle, and trajectory is encapsulated within these visual tools, facilitating a robust simulation environment.
+</p>
+<p align="left">
+  <!-- ROS Badge -->
+  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <!-- RViz Badge -->
+  <img src="https://img.shields.io/badge/RViz-7D42F4.svg?&style=for-the-badge&logo=ros&logoColor=white" alt="RViz"/>
+  <!-- Matplotlib Badge -->
+  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=for-the-badge&logo=python&logoColor=blue" alt="Matplotlib"/>
+</p>
 
+
+<p align="center"><h3>💠 Deployment and Testing </h3></p>
 
 
 
