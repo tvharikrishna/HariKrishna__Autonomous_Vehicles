@@ -1,4 +1,4 @@
-<p align="right">20 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
+<p align="right">15 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
 # ➡️ Introduction to Carla Simulator & Setup Guide
 
