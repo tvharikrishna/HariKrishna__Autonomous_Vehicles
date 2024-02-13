@@ -32,7 +32,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 ▸ Optimizes trajectories for energy-efficient routing, extending battery life and reducing energy use.
 
 ▸ Enhances safety by enabling systems to react to unexpected obstacles or changes, minimizing accident risks.
-</p>  <br> <hr> <br>
+</p> <br> <br>
 
 <!------ HOW ------>
 <p align="center">
