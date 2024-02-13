@@ -10,7 +10,7 @@
     <img src="readme_data/what.png" alt="Why we chose this project" width="600"/>
 </p>
 
-<p align="center"><h2>🎀 Essence of the Project</h2></p>
+<p align="center"><h1>🎀 Essence of the Project</h1></p>
 <p align='justify'>
 The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate simplified car-like vehicle dynamics, representing a vehicle with two axles defined by the length between the axles, known as the `wheel base. The vehicle's heading, theta, is defined at the center of the rear axle, where the front wheel can be steered using an angle psi. <br>
     
@@ -25,7 +25,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
     <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
 </p>
 
-<p align="center"><h2>🎯 Project Vision</h2>
+<p align="center"><h1>🎯 Project Vision</h1>
 ▸ The Bicycle Kinematic Model is pivotal in autonomous driving and robotics for planning and executing precise movements and maneuvers.
 
 ▸ It simplifies complex vehicle dynamics into a manageable model that captures the essential aspects of steering and motion, enabling the prediction of vehicle trajectory based on steering commands.
