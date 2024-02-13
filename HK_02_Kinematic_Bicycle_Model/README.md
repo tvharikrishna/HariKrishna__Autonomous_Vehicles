@@ -41,7 +41,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
 
-<p align="center"><h3>🎯 Tools and Technologies </h3></p>
+<p align="center"><h2> Software Design & Tools </h2></p>
 
 
 
