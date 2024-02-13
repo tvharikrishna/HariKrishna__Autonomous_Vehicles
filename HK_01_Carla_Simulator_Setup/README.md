@@ -1,4 +1,5 @@
-<p align="right">20 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">15 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
 # ➡️ Introduction to Carla Simulator & Setup Guide
 
@@ -7,15 +8,19 @@
 </p>
 
 ## What is Carla Simulator
-The CARLA simulator is an open-source platform designed to support the development, training, and validation of autonomous driving systems. It provides a highly realistic and flexible simulation environment with customizable scenarios, built on Unreal Engine and OpenDRIVE. CARLA includes a range of features such as a sensor suite, traffic manager, and the ability to distribute workloads across multiple GPUs for enhanced performance. It's widely used for generating synthetic training data not only for autonomous vehicles but also for other robotics applications, simulating real-world urban and highway environments
+<p align='justify'>
+The CARLA simulator is an open-source platform designed to support the development, training, and validation of autonomous driving systems. It provides a highly realistic and flexible simulation environment with customizable scenarios, built on Unreal Engine and OpenDRIVE. CARLA includes a range of features such as a sensor suite, traffic manager, and the ability to distribute workloads across multiple GPUs for enhanced performance. It's widely used for generating synthetic training data not only for autonomous vehicles but also for other robotics applications, simulating real-world urban and highway environments.
+</p>
 
 ## Installation Prerequisites
-1) **A compatible operating system:** You will need an ***Ubuntu version that supports*** the specific version of CARLA you wish to install. For instance, CARLA `0.9.13` is compatible with `ROS-bridge` as well as `ROS-Noetic`, which operates on `Ubuntu 20.04`.
+
+1) **A compatible operating system:** You will need an **Ubuntu version that supports** the specific version of CARLA you wish to install. For instance, CARLA `0.9.13` is compatible with `ROS-bridge` as well as `ROS-Noetic`, which operates on `Ubuntu 20.04`.
 
 2) **Operating System and GPU:** Ensure that your operating system meets the necessary specifications to run CARLA, including a compatible `GPU` that the CARLA simulator can utilize. ***Set up and update the required graphics drivers accordingly***. In my case, if you enter the command `nvidia-smi`, it will display my NVIDIA drivers.
 
 3) **Clean and Fresh OS:** This installation guide is designed to assist with a from-scratch installation, which means starting with a clean slate,         
  `(1 and 2 Completed)`, then installing ROS, required libraries, and finally the CARLA simulator. It is ***advisable to begin with no pre-installed packages to avoid conflicts*** with the installation steps outlined in this guide.
+</p>
 
 ---------------------------------------------
 
@@ -31,7 +36,9 @@ The CARLA simulator is an open-source platform designed to support the developme
 ---------------------------------------------
 
 # ➡️ PHASE 1 = Install all essential libraries and set up ROS Noetic.
+<p align='justify'>
 The commands provided are useful for setting up a Linux-based development environment. They include updating the system, installing common tools and libraries, setting up Git, Python, and Visual Studio Code, and installing ROS Noetic. Although not all these steps are directly related to the CARLA simulator, they are necessary when configuring a fresh system to ensure that all dependencies and tools are in place for a smooth installation.
+</p>
 
 
     #!/bin/bash
@@ -106,8 +113,10 @@ If you run into any problems, especially when trying to run Carla, that's what P
 ---------------------------------------------
 
 # ➡️ PHASE 3 = Addressing any `errors` that may occur post-installation or during the initial run of Carla.
+<p align='justify'>
 In this phase, some individuals might encounter errors, whereas others might not, because errors do not occur universally. For a number of users, the process will be seamless from the start, but there will be cases where errors arise. <br> <br>
 To address this, we have outlined some common errors and their respective troubleshooting steps below, ensuring you have the guidance needed to resolve any issues that may come up while running Carla for the first time.
+</p>
 
 ---------------------------------------------
 
@@ -118,12 +127,14 @@ To address this, we have outlined some common errors and their respective troubl
 </p>
 
 `SOLUTION`<br>
-• Reinstall the graphics card drivers.<br>
-• If already installed and Carla is not accessing them.<br>
-• Ensure you install the correct driver version for your laptop.<br>
+▸ Reinstall the graphics card drivers.<br>
+▸ If already installed and Carla is not accessing them.<br>
+▸ Ensure you install the correct driver version for your laptop.<br>
 
 `About The Error` <br>
+<p align='justify'>
 The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicating insufficient memory to execute a command and a loss of the device connection (VK_ERROR_DEVICE_LOST), leading to a segmentation fault (Signal 11). This typically points to issues such as inadequate GPU resources, outdated drivers, or a hardware malfunction. Ensuring that your system meets CARLA's requirements, updating your graphics drivers, and checking resource availability could help resolve the problem.
+</p>
 
 ---------------------------------------------
 
@@ -134,9 +145,9 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 </p>
 
 `SOLUTION`<br>
-• Navigated to `/usr/share/vulkan/icd.d/` which is the directory where Vulkan ICD (Installable Client Driver) JSON files are located.<br>
-• These files tell the Vulkan loader which drivers to load on the system.<br>
-• The user lists the files in that directory and then moves the `nvidia_icd.json` file to `nvidia_icd.json.backup` ***effectively disabling the NVIDIA Vulkan driver.*** <br>
+▸ Navigated to `/usr/share/vulkan/icd.d/` which is the directory where Vulkan ICD (Installable Client Driver) JSON files are located.<br>
+▸ These files tell the Vulkan loader which drivers to load on the system.<br>
+▸ The user lists the files in that directory and then moves the `nvidia_icd.json` file to `nvidia_icd.json.backup` ***effectively disabling the NVIDIA Vulkan driver.*** <br>
 
 ---------------------------------------------
 
@@ -147,18 +158,18 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 </p>
 
 `About The Error` <br>
-• The use of the `-opengl` flag is intended to tell the application to use the OpenGL rendering engine instead of Vulkan. This can sometimes resolve issues related to Vulkan, especially if there are driver or compatibility problems with Vulkan on the system. <br>
+▸ The use of the `-opengl` flag is intended to tell the application to use the OpenGL rendering engine instead of Vulkan. This can sometimes resolve issues related to Vulkan, especially if there are driver or compatibility problems with Vulkan on the system. <br>
 
-• However, in the screenshots I provided, attempting to run the CARLA simulator with the `-opengl` flag did not seem to fix the issue; the same X Error of failed request: BadMatch (invalid parameter attributes) error was still occurring. <br>
+▸ However, in the screenshots I provided, attempting to run the CARLA simulator with the `-opengl` flag did not seem to fix the issue; the same X Error of failed request: BadMatch (invalid parameter attributes) error was still occurring. <br>
 
-• This suggests that the issue may not be with the graphics API specifically, but could be related to other configuration mismatches or issues between the application and the X server settings.
+▸ This suggests that the issue may not be with the graphics API specifically, but could be related to other configuration mismatches or issues between the application and the X server settings.
 
 `SOLUTION`<br>
-• The command `export VK_ICD_FILENAMES="/usr/share/vulkan/icd.d/nvidia_icd.json"` is used to set the `VK_ICD_FILENAMES` environment variable to point to the Nvidia Vulkan Installable Client Driver (ICD) configuration file. This tells the Vulkan loader to use the Nvidia driver for Vulkan support.
+▸ The command `export VK_ICD_FILENAMES="/usr/share/vulkan/icd.d/nvidia_icd.json"` is used to set the `VK_ICD_FILENAMES` environment variable to point to the Nvidia Vulkan Installable Client Driver (ICD) configuration file. This tells the Vulkan loader to use the Nvidia driver for Vulkan support.
 
-• After setting this environment variable, the user then runs the CARLA simulator with the script ./CarlaUE4.sh. The use of && suggests that the simulator will only run if the export command succeeds.
+▸ After setting this environment variable, the user then runs the CARLA simulator with the script ./CarlaUE4.sh. The use of && suggests that the simulator will only run if the export command succeeds.
 
-• The purpose of setting this variable might be to resolve a driver conflict or to force the application to use a specific graphics driver, particularly if there are multiple drivers installed on the system that could potentially handle Vulkan.
+▸ The purpose of setting this variable might be to resolve a driver conflict or to force the application to use a specific graphics driver, particularly if there are multiple drivers installed on the system that could potentially handle Vulkan.
 
 <p align="center">
   <img src="readme_data//error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
@@ -173,9 +184,9 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 </p>
 
 `SOLUTION`<br>
-• Add path to .bashrc -> `export PYTHONPATH=~/CARLA_0.9.13/PythonAPI/carla/dist/carla-0.9.12-py3.7-linux-x86_64.egg:$PYTHONPATH` <br>
-• Check working directory <br>
-• Source bashrc file <br>
+▸ Add path to .bashrc -> `export PYTHONPATH=~/CARLA_0.9.13/PythonAPI/carla/dist/carla-0.9.12-py3.7-linux-x86_64.egg:$PYTHONPATH` <br>
+▸ Check working directory <br>
+▸ Source bashrc file <br>
 
 ## `No Error Free == Launch Successfull`
 
@@ -186,10 +197,11 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ---------------------------------------------
 
 # ➡️ PHASE 4 = Installation of the `ROS Bridge`
-
+<p align='justify'>
 After clearing all the errors, and confirming that the simulator is running smoothly, you should be able to launch 'python3 generate_traffic.py' without any issues. If you encounter any errors with the simulator in phase 2, please resolve them before proceeding. Do not proceed if you still have errors.
 
 Now, for the last step, we need to connect your Carla simulator with ROS. This can be achieved by installing the ROS Bridge for Carla. The following link provides straightforward instructions from the official documentation, making the installation process easy:
+</p>
 
     https://carla.readthedocs.io/projects/ros-bridge/en/latest/run_ros/#using-the-ros-bridge-in-synchronous-mode
 
