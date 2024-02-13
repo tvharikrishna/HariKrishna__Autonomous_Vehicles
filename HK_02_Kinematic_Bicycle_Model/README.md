@@ -41,10 +41,11 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
 
 <p align="center"><h1>🪓Project Implementation</h1></p>
 
-<p align="center"><h3>💠 Software Design & Tools </h3></p>
+<p align="center"><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
 The project leverages the Robot Operating System (ROS) for orchestrating robot software development, enabling complex simulations and trajectory analysis. The mathematical foundation is visualized through Matplotlib, reflecting the precise kinematic behavior of the bicycle model. The intricate relationship between velocity, steering angle, and trajectory is encapsulated within these visual tools, facilitating a robust simulation environment.
 </p>
+
 <p align="left">
   <!-- ROS Badge -->
   <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
@@ -57,7 +58,7 @@ The project leverages the Robot Operating System (ROS) for orchestrating robot s
 </p>
 
 
-<p align="center"><h3>💠 Deployment and Testing </h3></p>
+<p align="center"><h2>💠 Deployment and Testing </h2></p>
 
 
 
