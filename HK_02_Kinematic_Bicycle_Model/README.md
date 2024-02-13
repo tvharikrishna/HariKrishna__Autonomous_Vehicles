@@ -23,6 +23,12 @@ The Bicycle Kinematic Model block creates a bicycle vehicle model to simulate si
 
 This kinematic approach is fundamental in <strong>autonomous driving vehicles</strong> and <strong>autonomous mobile robotics</strong>, enabling accurate motion planning and control by predicting vehicle trajectory and facilitating the implementation of advanced navigation algorithms.</p>
 
+<br>
+
+<p align="center">
+    <img src="readme_data/model.png" alt="model imagge" width="1500"/>
+</p>
+
 <!------ WHY ------>
 <p align="center">
     <img src="readme_data/why.png" alt="What the project accomplishes" width="600"/>
