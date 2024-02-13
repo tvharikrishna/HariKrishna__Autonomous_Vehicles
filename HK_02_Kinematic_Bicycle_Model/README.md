@@ -47,14 +47,15 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 </p>
 <p>
   <!-- ROS Badge -->
-  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS"/>
+  <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
   <!-- Python Badge -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
   <!-- RViz Badge -->
-  <img src="https://img.shields.io/badge/RViz-7D42F4.svg?&style=flat-square&logo=ros&logoColor=white" alt="RViz"/>
+  <img src="https://img.shields.io/badge/RViz-7D42F4.svg?&style=flat-square&logo=ros&logoColor=white" alt="RViz" style="height: 25px;"/> &nbsp;
   <!-- Matplotlib Badge -->
-  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
 </p>
+
 
 
 
