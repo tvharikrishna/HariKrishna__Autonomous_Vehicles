@@ -39,9 +39,9 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
-<p align="center"><h2>🪓Project Implementation</h2></p>
+<p align="center"><h1>🪓Project Implementation</h1></p>
 
-<p><h3>💠 Software Design & Tools </h3></p>
+<p><h2>💠 Software Design & Tools </h2></p>
 <p align='justify'>
 The project is developed using the Robot Operating System (ROS), facilitating complex simulations and trajectory analysis. The mathematical foundation and kinematic behavior of the bicycle model are visualized through Matplotlib, with Python scripting at the core of the development. RViz provides real-time visualization of the robot model and trajectory, enhancing the analysis and debugging process.
 </p>
