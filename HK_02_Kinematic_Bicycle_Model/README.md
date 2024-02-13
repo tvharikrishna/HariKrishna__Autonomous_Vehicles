@@ -39,6 +39,8 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
+<p align="center"><h1>🪓Project Implementation</h1></p>
+
 <p align="center"><h3>🎯 Tools and Technologies </h3></p>
 
 
