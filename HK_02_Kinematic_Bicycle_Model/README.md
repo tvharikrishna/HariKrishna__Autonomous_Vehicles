@@ -39,7 +39,7 @@ This kinematic approach is fundamental in <strong>autonomous driving vehicles</s
     <img src="readme_data/how.png" alt="How we implemented the project" width="600"/>
 </p>
 
-<p align="center"><h1>🪓Project Implementation</h1></p>
+<p align="center"><h2>🪓Project Implementation</h2></p>
 
 <p><h3>💠 Software Design & Tools </h3></p>
 <p align='justify'>
@@ -54,10 +54,7 @@ The project is developed using the Robot Operating System (ROS), facilitating co
   <img src="https://img.shields.io/badge/RViz-7D42F4.svg?&style=flat-square&logo=ros&logoColor=white" alt="RViz" style="height: 25px;"/> &nbsp;
   <!-- Matplotlib Badge -->
   <img src="https://img.shields.io/badge/Matplotlib-FFD43B.svg?&style=flat-square&logo=python&logoColor=blue" alt="Matplotlib" style="height: 25px;"/> &nbsp;
-</p>
-
-
-
+</p> <br>
 
 <p align="center"><h2>💠 Deployment and Testing </h2></p>
 
