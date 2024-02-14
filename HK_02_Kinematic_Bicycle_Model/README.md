@@ -124,37 +124,3 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 <p align="center">
     <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
 </p>
-
-## ▶ My Project Video Demonstration:
-<p align="center">
-  <a href="https://www.linkedin.com/posts/tvharikrishnahk_autonomousdriving-autonomousvehicles-mobilerobots-activity-7115334457124900866-LaV_?utm_source=share&utm_medium=member_desktop">
-    <img src="https://img.shields.io/badge/Video-Kinematic Bicycle Model-blue" alt="Video" width="510" height="50"/>
-  </a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
