@@ -23,7 +23,7 @@
 # 🔻 Basics are key❗️
 <p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
 
-## 💠 Concepts
+### 💠 Concepts
 | Core of Autonomous Vehicles   | Non-Core of Autonomous Vehicles          |
 |-------------------------------|-----------------------------------------|
 | Computer Vision for Perception| Networking and Communications (V2V & V2X)|
@@ -37,7 +37,7 @@
 | Deep Learning                 |                                         |
 | Artificial Intelligence       |                                         |
 
-## 💠 Sensors for Autonomous Vehicles
+### 💠 Sensors for Autonomous Vehicles
 
 | Most Used Sensors         | Other Sensors                 |
 |---------------------------|-------------------------------|
