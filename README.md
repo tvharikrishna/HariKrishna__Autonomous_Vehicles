@@ -3,10 +3,10 @@
 
 # 🔻 What is a Self-Driving Vehicle?
 <p align='justify'>
-▸ A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility. </p>
+A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility. </p>
 
 <p align="center">
-    <img src="readme_data/selfdrivingcar.png" alt="Self-driving vehicle illustration" width="1500"/>
+    <img src="readme_data/selfdrivingcar.png" alt="Self-driving vehicle illustration" width="651"/>
 </p>
 
 
@@ -15,7 +15,7 @@
 ▸ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for <stgrong>autonomous driving systems</stgrong>. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc. </p>
 
 <p align="center">
-    <img src="readme_data/hk_carla_window.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/hk_carla_window.png" alt="Alt text for your image" width="651"/>
 </p>
 
 <p align='justify'>
@@ -32,19 +32,9 @@
 # 🔻 Basics are key❗️
 <p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
 
-### 💠 Concepts
-| Core of Autonomous Vehicles   | Non-Core of Autonomous Vehicles          |
-|-------------------------------|-----------------------------------------|
-| Computer Vision for Perception| Networking and Communications (V2V & V2X)|
-| Path Planning Algorithms      | Software Engineering                    |
-| Motion Planning Algorithms    | Software and Hardware Integration       |
-| Sensors                       | Energy Efficiency and Management        |
-| Sensor Fusion                 | Data Management and Storage             |
-| Localization and Mapping      | Safety and Reliability Engineering      |
-| Vehicle Dynamics and Kinematics |                                       |
-| Machine Learning              |                                         |
-| Deep Learning                 |                                         |
-| Artificial Intelligence       |                                         |
+<p align="center">
+    <img src="readme_data/roadmap.png" alt="Alt text for your image" width="1500"/>
+</p>
 
 ### 💠 Sensors for Autonomous Vehicles
 
