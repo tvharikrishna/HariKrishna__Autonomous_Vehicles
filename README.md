@@ -32,7 +32,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 <h1 align="center">Perception + Sensing + Navigation</h1>
 
 
-<p align="center"><h3>💠 Roadmap </h3></p>
+<p align="center"><h2>💠 Roadmap </h2></p>
 
 <div align="center">
 <table>
@@ -62,7 +62,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 </table>
 </div>
 
-<p align="center"><h3>💠 Sensors </h3></p>
+<p align="center"><h2>💠 Sensors </h2></p>
 <div align="center">
 <table>
 <tr>
@@ -109,7 +109,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 
 
 
-<p align="center"><h3>💠 Free Valuable YouTube Course</h3></p>
+<p align="center"><h2>💠 Free Valuable YouTube Course</h2></p>
 <div style="text-align: center;">
     Prof. Andreas Geiger, University of Tübingen <br> <br>
     <a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr">
