@@ -1,4 +1,4 @@
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝗧 𝗩 𝗛𝗮𝗿𝗶 𝗞𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">15 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
 # ➡️ Introduction to Carla Simulator & Setup Guide
@@ -7,12 +7,12 @@
   <img src="readme_data/project_title.png" alt="Project Logo Cover" width="1500"/>
 </p>
 
-## What is Carla Simulator
+<h2>💠 What is Carla Simulator ? </h2></p>
 <p align='justify'>
 The CARLA simulator is an open-source platform designed to support the development, training, and validation of autonomous driving systems. It provides a highly realistic and flexible simulation environment with customizable scenarios, built on Unreal Engine and OpenDRIVE. CARLA includes a range of features such as a sensor suite, traffic manager, and the ability to distribute workloads across multiple GPUs for enhanced performance. It's widely used for generating synthetic training data not only for autonomous vehicles but also for other robotics applications, simulating real-world urban and highway environments.
 </p>
 
-## Installation Prerequisites
+<h2>💠 Installation Prerequisites </h2></p>
 
 1) **A compatible operating system:** You will need an **Ubuntu version that supports** the specific version of CARLA you wish to install. For instance, CARLA `0.9.13` is compatible with `ROS-bridge` as well as `ROS-Noetic`, which operates on `Ubuntu 20.04`.
 
@@ -120,7 +120,7 @@ To address this, we have outlined some common errors and their respective troubl
 
 ---------------------------------------------
 
-## `ERROR 1 ➞ Inadequate GPU Resources`
+<h2>💠 <code> ERROR 1 ➞ Inadequate GPU Resources </code> </h2></p>
 
 <p align="center">
   <img src="readme_data//error_1.jpeg" alt="Project Logo Cover" width="700"/>
@@ -138,7 +138,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 
 ---------------------------------------------
 
-## `ERROR 2 == Disable NVIDIA Vulkan Driver Permanently`
+<h2>💠 <code> ERROR 2 == Disable NVIDIA Vulkan Driver Permanently</code> </h2></p>
 
 <p align="center">
   <img src="readme_data//error 2.jpeg" alt="Project Logo Cover" width="700"/>
@@ -151,7 +151,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 
 ---------------------------------------------
 
-## `ERROR 3 == When "./CarlaUE4.sh -opengl" FAILS`
+<h2>💠 <code> ERROR 3 == When "./CarlaUE4.sh -opengl" FAILS</code> </h2></p>
 
 <p align="center">
   <img src="readme_data//error 3.jpeg" alt="Project Logo Cover" width="700"/>
@@ -177,7 +177,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 
 ---------------------------------------------
 
-## `ERROR 4 == No Module Named Carla` 
+<h2>💠 <code> ERROR 4 == No Module Named Carla</code> </h2></p>
 
 <p align="center">
   <img src="readme_data//error_4.jpeg" alt="Project Logo Cover" width="700"/>
@@ -188,7 +188,9 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ▸ Check working directory <br>
 ▸ Source bashrc file <br>
 
-## `No Error Free == Launch Successfull`
+---------------------------------------------
+
+<h2>💠 <code>No Error == Launch Successfull</code> </h2></p>
 
 <p align="center">
   <img src="readme_data//succeed.jpeg" alt="Project Logo Cover" width="700"/>
@@ -196,7 +198,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 
 ---------------------------------------------
 
-# ➡️ PHASE 4 = Installation of the `ROS Bridge`
+# ➡️ PHASE 4 = Installation of the <code>ROS Bridge</code>
 <p align='justify'>
 After clearing all the errors, and confirming that the simulator is running smoothly, you should be able to launch 'python3 generate_traffic.py' without any issues. If you encounter any errors with the simulator in phase 2, please resolve them before proceeding. Do not proceed if you still have errors.
 
@@ -204,12 +206,12 @@ Now, for the last step, we need to connect your Carla simulator with ROS. This c
 </p>
 
     https://carla.readthedocs.io/projects/ros-bridge/en/latest/run_ros/#using-the-ros-bridge-in-synchronous-mode
-
+    
 Please follow the instructions in the provided link to install the ROS Bridge for Carla.
 
 ---------------------------------------------
 
-## `ERROR == numpy.bool or np.bool error in camera.py` 
+<h2>💠 <code>ERROR == numpy.bool or np.bool error in camera.py</code> </h2></p>
 After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' launch files, you may or may not encounter an error. If you do encounter an error, the issue will likely be in the 'camera.py' script located in the 'rosbridge' Catkin workspace.
 
 `SOLUTION`<br>
