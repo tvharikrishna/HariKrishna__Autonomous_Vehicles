@@ -1,6 +1,15 @@
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
 <p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
 
+# 🔻 What is a Self-Driving Vehicle?
+<p align='justify'>
+▸ A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility. </p>
+
+<p align="center">
+    <img src="readme_data/selfdrivingcar.png" alt="Self-driving vehicle illustration" width="1500"/>
+</p>
+
+
 # 🔻 What is Carla Simulator?
 <p align='justify'>
 ▸ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for <stgrong>autonomous driving systems</stgrong>. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc. </p>
