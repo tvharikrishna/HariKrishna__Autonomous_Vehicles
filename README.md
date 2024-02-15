@@ -29,6 +29,53 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 <h1>🔻 Basics are key❗️</h1></p>
 <p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
 
+<p align="center"><h3>💠 Roadmap for Autonomous Systems (Perception, Sensing & Navigation)</h3></p>
+
+<div align="center">
+<table>
+<tr>
+    <th colspan="3">Core of Autonomous Vehicles</th>
+</tr>
+<tr>
+    <td>Computer Vision</td>
+    <td>Path Planning Algorithms</td>
+    <td>Motion Cotnrol Algorithms</td>
+</tr>
+<tr>
+    <td>Sensors Fusion </td>
+    <td>Localization and Mapping</td>
+    <td>Vehicle Dynamics and Kinematics</td>
+</tr>
+<tr>
+    <td>Artificial intelligence</td>
+    <td>Machine Learning</td>
+    <td>Deep Learning</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+    <th colspan="3">Non-Core of Autonomous Vehicles</th>
+</tr>
+<tr>
+    <td>Networking and Communications (V2V & V2X)</td>
+    <td>Software Engineering</td>
+    <td>Software and Hardware Integration</td>
+</tr>
+<tr>
+    <td>Energy Efficiency and Management</td>
+    <td>Data Management and Storage</td>
+    <td>Safety and Reliability Engineering</td>
+</tr>
+</table>
+</div>
+
+
+
 <p align="center"><h3>💠 Sensors in Autonomous Vehicles</h3></p>
 <div align="center">
 <table>
@@ -93,19 +140,18 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 </table>
 </div>
 
+<p align="center"><h3>💠 Free Valuable YouTube Course</h3></p>
+<div style="text-align: center;">
+    Prof. Andreas Geiger, University of Tübingen <br> <br>
+    <a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr">
+        <div style="display: inline-block;">
+            <img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series" width="150px">
+        </div>
+    </a>
+</div>
 
-<h1>🔻 Free Valuble Youtube Course</h1></p>
 
-<table>
-<tr>
-<th>Professor</th>
-<th>Series</th>
-</tr>
-<tr>
-<td>Prof. Andreas Geiger, University of Tübingen</td>
-<td><a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr" target="_blank"><img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series"></a></td>
-</tr>
-</table> 
+
 
 <hr> 
 <br>
