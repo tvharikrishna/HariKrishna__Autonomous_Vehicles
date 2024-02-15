@@ -1,20 +1,27 @@
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p>
+<!-- This README provides an overview of autonomous vehicles, the Carla Simulator, and the repository's contents focused on Autonomous Driving projects. -->
 
-<h1>🔻 What are Self-Driving Vehicles? </h1></p>
+<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p>
+
+<!-- Introduction to Self-Driving Vehicles -->
+<h1>🔻 What are Self-Driving Vehicles? </h1>
 <p align='justify'>
-A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility. </p>
+A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility.
+</p>
 <p align="center">
     <img src="readme_data/selfdrivingcar.png" alt="Self-driving vehicle illustration" width="651"/>
 </p>
 
-<h1>🔻 What is Carla Simulator? </h1></p>
+<!-- Introduction to Carla Simulator -->
+<h1>🔻 What is Carla Simulator? </h1>
 <p align='justify'>
-The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for <stgrong>autonomous driving systems</stgrong>. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc. </p>
+The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> platform developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for autonomous driving systems. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc.
+</p>
 <p align="center">
-    <img src="readme_data/hk_carla_window.png" alt="Alt text for your image" width="1000"/>
+    <img src="readme_data/hk_carla_window.png" alt="Carla Simulator interface" width="1000"/>
 </p>
 
+<!-- Details about Carla Simulator's capabilities -->
 <p align='justify'>
 ▸ Carla simulator offers a spectrum of extreme weather conditions such as rain, fog, storms for perception tests.
 
@@ -23,18 +30,23 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 ▸ Scenarios for critical response training, including unexpected roadblocks and unpredictable actions from pedestrians and other drivers.
 </p>
 
-<h1>🔻 Repository Detail</h1></p>
-<p align='justify'>This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.</p>
+<!-- Repository Overview -->
+<h1>🔻 Repository Detail</h1>
+<p align='justify'>
+This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.
+</p>
 
-<h1>🔻 Basics are key❗️</h1></p>
-<p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
+<!-- Emphasis on Basics -->
+<h1>🔻 Basics are key❗️</h1>
+<p align='justify'>
+I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensor technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.
+</p>
 
+<!-- Roadmap for learning -->
 <h1 align="center">Perception + Sensing + Navigation</h1>
-
-
 <p align="center"><h2>💠 Roadmap </h2></p>
-
 <div align="center">
+<!-- Core concepts table -->
 <table>
 <tr>
     <th colspan="3">Core of Autonomous Vehicles</th>
@@ -62,6 +74,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 </table>
 </div>
 
+<!-- Sensors Overview -->
 <p align="center"><h2>💠 Sensors </h2></p>
 <div align="center">
 <table>
@@ -71,6 +84,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
     <td>IMU Sensor</td>
     <td>Collision Detector</td>
 </tr>
+<!-- Additional sensors and technologies -->
 <tr>
     <td>Depth Camera</td>
     <td>GNSS Sensor</td>
@@ -107,8 +121,7 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 </table>
 </div>
 
-
-
+<!-- Recommended YouTube Course -->
 <p align="center"><h2>💠 Free Valuable YouTube Course</h2></p>
 <div style="text-align: center;">
     Prof. Andreas Geiger, University of Tübingen <br> <br>
@@ -119,12 +132,9 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
     </a>
 </div>
 
+<hr> <br>
 
-
-
-<hr> 
-<br>
-
+<!-- Closing image -->
 <p align="center">
-    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Humorous quote on autonomous driving" width="1500"/>
 </p>
