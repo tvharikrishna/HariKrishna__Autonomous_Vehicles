@@ -29,7 +29,10 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 <h1>🔻 Basics are key❗️</h1></p>
 <p align='justify'> I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensors technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.</p>
 
-<p align="center"><h3>💠 Roadmap for Autonomous Systems (Perception, Sensing & Navigation)</h3></p>
+<h1 align="center">Perception + Sensing + Navigation</h1>
+
+
+<p align="center"><h3>💠 Roadmap </h3></p>
 
 <div align="center">
 <table>
@@ -39,106 +42,72 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 <tr>
     <td>Computer Vision</td>
     <td>Path Planning Algorithms</td>
-    <td>Motion Cotnrol Algorithms</td>
+    <td>Motion Control Algorithms</td>
 </tr>
 <tr>
-    <td>Sensors Fusion </td>
+    <td>Sensors Fusion</td>
     <td>Localization and Mapping</td>
     <td>Vehicle Dynamics and Kinematics</td>
 </tr>
 <tr>
-    <td>Artificial intelligence</td>
+    <td>Artificial Intelligence</td>
     <td>Machine Learning</td>
-    <td>Deep Learning</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-    <th colspan="3">Non-Core of Autonomous Vehicles</th>
+    <td>Deep Learning Perception</td>
 </tr>
 <tr>
-    <td>Networking and Communications (V2V & V2X)</td>
-    <td>Software Engineering</td>
-    <td>Software and Hardware Integration</td>
-</tr>
-<tr>
+    <td>Communications (V2V & V2X)</td>
+    <td>Software-Hardware Integration</td>
     <td>Energy Efficiency and Management</td>
-    <td>Data Management and Storage</td>
-    <td>Safety and Reliability Engineering</td>
 </tr>
 </table>
 </div>
 
-
-
-<p align="center"><h3>💠 Sensors in Autonomous Vehicles</h3></p>
+<p align="center"><h3>💠 Sensors </h3></p>
 <div align="center">
 <table>
-<tr>
-    <th colspan="2">Most used sensors</th>
-    <th colspan="2">Other sensors</th>
-</tr>
-<tr>
-    <td>Collision Detector</td>
-    <td>Depth Camera</td>
-    <td>Thermal Cameras</td>
-    <td>Microphones</td>
-</tr>
-<tr>
-    <td>GNSS Sensor</td>
-    <td>GPS</td>
-    <td>Air Quality Sensor</td>
-    <td>V2V Communication System</td>
-</tr>
-<tr>
-    <td>IMU Sensor</td>
-    <td>Lane Invasion Detector</td>
-    <td>V2I Communication System</td>
-    <td>Event Data Recorders (EDR)</td>
-</tr>
 <tr>
     <td>LIDAR Sensor</td>
+    <td>Radar Sensor</td>
+    <td>IMU Sensor</td>
+    <td>Collision Detector</td>
+</tr>
+<tr>
+    <td>Depth Camera</td>
+    <td>GNSS Sensor</td>
+    <td>GPS</td>
+    <td>Lane Invasion Detector</td>
+</tr>
+<tr>
     <td>Obstacle Detector</td>
+    <td>Thermal Cameras</td>
     <td>Capacitive Sensors</td>
     <td>Tactile Sensors</td>
 </tr>
 <tr>
-    <td>Radar Sensor</td>
     <td>RBG Camera</td>
-    <td>Speed Sensors</td>
-    <td></td>
+    <td>V2V Communication System</td>
+    <td>V2I Communication System</td>
+    <td>Event Data Recorders (EDR)</td>
 </tr>
 <tr>
     <td>RSS Sensor</td>
     <td>Semantic LIDAR Sensor</td>
-    <td></td>
-    <td></td>
-</tr>
-<tr>
     <td>Semantic Segmentation Camera</td>
     <td>DVS Camera</td>
-    <td></td>
-    <td></td>
 </tr>
 <tr>
     <td>Optical Flow Camera</td>
     <td>Inertial Sensor</td>
-    <td></td>
-    <td></td>
+    <td>Speed Sensors</td>
+    <td>Ultrasonic Sensor</td>
 </tr>
 <tr>
-    <td>Ultrasonic Sensor</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="4"></td>
 </tr>
 </table>
 </div>
+
+
 
 <p align="center"><h3>💠 Free Valuable YouTube Course</h3></p>
 <div style="text-align: center;">
