@@ -84,7 +84,6 @@ I understand your excitement to download these projects and start running them i
     <td>IMU Sensor</td>
     <td>Collision Detector</td>
 </tr>
-<!-- Additional sensors and technologies -->
 <tr>
     <td>Depth Camera</td>
     <td>GNSS Sensor</td>
@@ -99,14 +98,14 @@ I understand your excitement to download these projects and start running them i
 </tr>
 <tr>
     <td>RBG Camera</td>
-    <td>V2V Communication System</td>
-    <td>V2I Communication System</td>
-    <td>Event Data Recorders (EDR)</td>
+    <td>V2V Communications</td>
+    <td>V2I Communications</td>
+    <td>Event Data Recorders</td>
 </tr>
 <tr>
     <td>RSS Sensor</td>
     <td>Semantic LIDAR Sensor</td>
-    <td>Semantic Segmentation Camera</td>
+    <td>Segmentation Camera</td>
     <td>DVS Camera</td>
 </tr>
 <tr>
