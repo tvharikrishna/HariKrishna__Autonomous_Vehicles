@@ -43,7 +43,7 @@ I understand your excitement to download these projects and start running them i
 </p>
 
 <!-- Roadmap for learning -->
-<h1 align="center">👀 Perception 📡 Sensing Navigation 🪱</h1>
+<h1 align="center">🚗 Perception 👀 Sensing 📡 Navigation ⛐ </h1>
 <p align="center"><h2>💠 Roadmap </h2></p>
 <div align="center">
 <!-- Core concepts table -->
