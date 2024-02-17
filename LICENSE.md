@@ -7,16 +7,16 @@
 
 This repository contains a mix of content under different licensing terms:
 
-1. **Source Code Licensing** - `GNU GPL v3.0` <br>
+1. **Source Code Licensing** - `𝗚𝗡𝗨-𝗚𝗣𝗟 𝘃𝟯.𝟬 𝗟𝗶𝗰𝗲𝗻𝘀𝗲` <br>
 The source code is licensed under the GNU General Public License version 3.0, allowing for its use, modification, and distribution under the same license.
 
-3. **Non-Code Elements Licensing** - `Strictly Copyright Protected` <br>
+3. **Non-Code Elements Licensing** - `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` <br>
 All non-code elements in this repository, such as documentation, images (including the HK logo and documentation footers), assets, and files, are copyrighted by the owner and protected under copyright laws. They cannot be used commercially, modified, copied, redistributed, or transformed into derivative works.
 
 -----
 
 **Permissions**:
-- ✅ Only source code (GPL v3.0)
+- ✅ Only source code (𝗚𝗡𝗨-𝗚𝗣𝗟 𝘃𝟯.𝟬 𝗟𝗶𝗰𝗲𝗻𝘀𝗲)
 
 **Limitations**:
 - ❌ No commercial use of documentation, non-code elements, or documentation footer images.
@@ -28,7 +28,7 @@ All non-code elements in this repository, such as documentation, images (includi
 --------
 
 **Clarification**:
-- Sharing, copying, redistributing, republishing, or exploiting any material from this repository is `strictly prohibited` except for the source code, which is governed by GNU GPL v3.0 and may be used, modified, and shared according to its terms.
+- Sharing, copying, redistributing, republishing, or exploiting any material from this repository is `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` except for the source code, which is governed by GNU GPL v3.0 and may be used, modified, and shared according to its terms.
 
 
-- The `HK logo` is strictly protected and copyrighted by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action and lawsuits may be filed against any infringement on all social media platforms.
+- The `𝗛𝗞 𝗹𝗼𝗴𝗼` is strictly protected and copyrighted by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action and lawsuits may be filed against any infringement on all social media platforms.
