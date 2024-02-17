@@ -28,7 +28,7 @@ All non-code elements in this repository, such as documentation, images (includi
 --------
 
 **Clarification**:
-- Sharing, copying, redistributing, republishing, or exploiting any material from this repository is `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` except for the source code, which is governed by GNU GPL v3.0 and may be used, modified, and shared according to its terms.
+- Sharing, copying, redistributing, republishing, or exploiting any assets, images, or documentation from this repository is `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱`, except for the source code. The source code is governed by the GNU GPL v3.0 and may be used, modified, and shared according to its terms.
 
 
 - The `𝗛𝗞 𝗹𝗼𝗴𝗼` is strictly protected and copyrighted by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action and lawsuits may be filed against any infringement on all social media platforms.
