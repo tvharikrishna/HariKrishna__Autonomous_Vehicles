@@ -2,21 +2,33 @@
 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟰 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮 <br>
 
 𝗔𝗹𝗹 𝗥𝗶𝗴𝗵𝘁𝘀 𝗥𝗲𝘀𝗲𝗿𝘃𝗲𝗱.
-- All content, assets, documentation within this repository are exclusive property of the owner.
-- It is strictly prohibited to share, copy, redistribute, republish, or exploit any material from this repository.
 
-𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻𝘀: <br>
-✅ Private use <br>
-✅ Learning use <br>
+-----
 
-𝗟𝗶𝗺𝗶𝘁𝗮𝘁𝗶𝗼𝗻𝘀: <br>
-❌ Commercial use <br>
-❌ Modification <br>
-❌ Copying work (images or assets) <br>
-❌ Copying or re-uploading documentation <br>
-❌ Creating derivative works <br>
-❌ Distribution <br>
-❌ Trademark use <br>
-❌ Liability <br>
-❌ Warranty <br>
-❌ Patent use <br>
+This repository contains a mix of content under different licensing terms:
+
+1. **Source Code Licensing** - `GNU GPL v3.0` <br>
+The source code is licensed under the GNU General Public License version 3.0, allowing for its use, modification, and distribution under the same license.
+
+3. **Non-Code Elements Licensing** - `Strictly Copyright Protected` <br>
+All non-code elements in this repository, such as documentation, images (including the HK logo and documentation footers), assets, and files, are copyrighted by the owner and protected under copyright laws. They cannot be used commercially, modified, copied, redistributed, or transformed into derivative works.
+
+-----
+
+**Permissions**:
+- ✅ Only source code (GPL v3.0)
+
+**Limitations**:
+- ❌ No commercial use of documentation, non-code elements, or documentation footer images.
+- ❌ No copying or redistribution of images, assets, the HK Logo, or any other material.
+- ❌ No creation of derivative works from non-code elements, including documentation.
+- ❌ No use of trademarks, specifically the HK Logo.
+- ❌ No liability or warranty is provided for any elements.
+
+--------
+
+**Clarification**:
+- Sharing, copying, redistributing, republishing, or exploiting any material from this repository is `strictly prohibited` except for the source code, which is governed by GNU GPL v3.0 and may be used, modified, and shared according to its terms.
+
+
+- The `HK logo` is strictly protected and copyrighted by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action and lawsuits may be filed against any infringement on all social media platforms.
