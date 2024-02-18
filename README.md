@@ -130,7 +130,7 @@ I understand your excitement to download these projects and start running them i
     </a>
 </div>
 
-<hr> <br>
+<hr>
 
 <!-- Closing image -->
 <p align="center">
