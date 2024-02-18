@@ -122,5 +122,5 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 
 <!------ Smile More :) ------>
 <p align="center">
-    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Alt text for your image" width="1500"/>
+    <img src="readme_data/HKAD_quote.png" alt="Alt text for your image" width="1500"/>
 </p>
