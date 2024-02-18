@@ -1,22 +1,11 @@
-𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟰 𝗩𝗲𝗻𝗸𝗮𝘁𝗮 𝗛𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮, 𝗧𝗮𝗹𝗮𝗽𝗮𝗹𝗮 <br>
-𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 © 𝟮𝟬𝟮𝟰 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮 <br>
+<p align="right">
+  <img src="readme_data/hk_license.png" width="2222" alt="HK Official Logo"/>
+</p>
 
-𝗔𝗹𝗹 𝗥𝗶𝗴𝗵𝘁𝘀 𝗥𝗲𝘀𝗲𝗿𝘃𝗲𝗱.
-
------
-
-This repository contains a mix of content under different licensing terms:
-
-1. **Source Code Licensing** - `𝗚𝗡𝗨-𝗚𝗣𝗟 𝘃𝟯.𝟬 𝗟𝗶𝗰𝗲𝗻𝘀𝗲` <br>
-The source code is licensed under the GNU General Public License version 3.0, allowing for its use, modification, and distribution under the same license.
-
-3. **Non-Code Elements Licensing** - `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱` <br>
-All non-code elements in this repository, such as documentation, images (including the HK logo and documentation footers), assets, and files, are copyrighted by the owner and protected under copyright laws. They cannot be used commercially, modified, copied, redistributed, or transformed into derivative works.
-
------
+---
 
 **Permissions**:
-- ✅ Only source code (𝗚𝗡𝗨-𝗚𝗣𝗟 𝘃𝟯.𝟬 𝗟𝗶𝗰𝗲𝗻𝘀𝗲)
+- ✅ Only source code is licensed under `𝗚𝗡𝗨 𝗚𝗣𝗟 𝘃𝟯.𝟬` use, modify, and share according to its terms.
 
 **Limitations**:
 - ❌ No commercial use of documentation, non-code elements, or documentation footer images.
@@ -25,10 +14,31 @@ All non-code elements in this repository, such as documentation, images (includi
 - ❌ No use of trademarks, specifically the HK Logo.
 - ❌ No liability or warranty is provided for any elements.
 
---------
+<br>
 
-**Clarification**:
-- Sharing, copying, redistributing, republishing, or exploiting any assets, images, or documentation from this repository is `𝗦𝘁𝗿𝗶𝗰𝘁𝗹𝘆 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗲𝗱`, except for the source code. The source code is governed by the GNU GPL v3.0 and may be used, modified, and shared according to its terms.
-
-
-- The `𝗛𝗞 𝗹𝗼𝗴𝗼` is strictly protected and copyrighted by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action and lawsuits may be filed against any infringement on all social media platforms.
+<table>
+  <tr>
+    <th>⚠️</th>
+    <th>Category</th>
+    <th width="135px">License</th>
+    <th>Limitations</th>
+  </tr>
+  <tr>
+    <td>✅</td>
+    <td><strong>Code</strong></td>
+    <td>GNU-GPL v3.0</td>
+    <td>Use, modify, and share as per its terms.</td>
+  </tr>
+  <tr>
+    <td>❌</td>
+    <td><strong>Assets</strong></td>
+    <td>Copyrighted ©</td>
+    <td> All non-code components, including documentation, associated imagery, footer graphics, visual assets, and miscellaneous files, are the exclusive safeguarded by copyright statutes.</td>
+  </tr>
+  <tr>
+    <td>❌</td>
+    <td><strong>HK Logo</strong></td>
+    <td>Copyrighted ©</td>
+    <td>Protected by the Department for Promotion of Industry and Internal Trade under the Government of India's Intellectual Property Rights. Legal action for infringement on all social media platforms.</td>
+  </tr>
+</table>
