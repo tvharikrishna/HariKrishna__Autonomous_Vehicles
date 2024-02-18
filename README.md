@@ -134,5 +134,5 @@ I understand your excitement to download these projects and start running them i
 
 <!-- Closing image -->
 <p align="center">
-    <img src="readme_data/funny_endquote_autonomous_driving.png" alt="Humorous quote on autonomous driving" width="1500"/>
+    <img src="readme_data/HKAD_quote.png" alt="Humorous quote on autonomous driving" width="1500"/>
 </p>
