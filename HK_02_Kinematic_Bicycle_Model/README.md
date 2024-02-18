@@ -118,7 +118,7 @@ The project is developed using the Robot Operating System (ROS), facilitating co
 <!------ Observation 4 ------>
 <p align="center">
     <img src="readme_data/project_obs_4.png" alt="Why we chose this project" width="1500"/>
-</p> <hr> <br>
+</p> <hr>
 
 <!------ Smile More :) ------>
 <p align="center">
