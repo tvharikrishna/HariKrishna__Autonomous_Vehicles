@@ -139,7 +139,7 @@ I understand your excitement to download these projects and start running them i
 <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/CARLA%20Simulator-007ACC.svg?&style=flat-square&logo=simScale&logoColor=white" alt="CARLA Simulator" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS%20Bridged%20CARLA-007ACC.svg?&style=flat-square&logo=simScale&logoColor=white" alt="ROS Bridge CARLA" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/>
+<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;"/> &nbsp;
