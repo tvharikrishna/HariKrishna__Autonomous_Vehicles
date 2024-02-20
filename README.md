@@ -41,6 +41,8 @@ This repository documents my comprehensive journey through diverse projects in A
 I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensor technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.
 </p>
 
+<br>
+
 <!-- Roadmap for learning -->
 <h1 align="center">🚗 Perception 👀 Sensing 📡 Navigation ⛐ </h1>
 <p align="center"><h2>💠 Roadmap </h2></p>
