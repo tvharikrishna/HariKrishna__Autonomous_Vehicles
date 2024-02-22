@@ -137,7 +137,7 @@ I understand your excitement to download these projects and start running them i
 <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CARLA%20Simulator-007ACC.svg?&style=flat-square&logo=simScale&logoColor=white" alt="CARLA Simulator" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS%20Bridged%20CARLA-007ACC.svg?&style=flat-square&logo=simScale&logoColor=white" alt="ROS Bridge CARLA" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
