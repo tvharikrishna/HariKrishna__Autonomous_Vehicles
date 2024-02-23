@@ -124,10 +124,10 @@ I understand your excitement to download these projects and start running them i
 <!-- Recommended YouTube Course -->
 <p align="center"><h2>💠 Free Valuable YouTube Course</h2></p>
 <div style="text-align: center;">
-    Prof. Andreas Geiger, University of Tübingen <br> <br>
+    Prof. Andreas Geiger - University of Tübingen <br> <br>
     <a href="https://www.youtube.com/watch?v=_q4WUxgwDeg&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr">
         <div style="display: inline-block;">
-            <img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series" width="150px">
+            <img src="https://img.shields.io/badge/YouTube-Series-red?logo=youtube" alt="YouTube Series" width="180px">
         </div>
     </a>
 </div>
