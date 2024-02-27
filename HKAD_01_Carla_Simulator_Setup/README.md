@@ -219,8 +219,6 @@ To resolve this, open the `camera.py` file and, at the end of the file, replace 
 
 ---------------------------------------------
 
-<br>
-
 <p align="center">
-  <img src="readme_data//funny_endquote_autonomous_driving.png" alt="Project Logo Cover" width="700"/>
+  <img src="readme_data//HKAD_quote.png" alt="Project Logo Cover" width="1111"/>
 </p>
