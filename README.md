@@ -26,7 +26,7 @@ The <strong>Autoware Foundation</strong> is a non-profit organization focused on
 </p>
 
 <!-- Merging both -->
-<h1>🔻 Carla x Autoware </h1>
+<h1>🔻 Carla ∧ Autoware </h1>
 <p align='justify'>
 By combining the <strong>Autoware Foundation's</strong> software with the <strong>CARLA simulator</strong>, developers can significantly enhance autonomous vehicle projects. This integration allows for extensive testing and improvement of vehicle systems in a virtual setup, speeding up development and ensuring systems are reliable before being used in the real world.
 </p>
