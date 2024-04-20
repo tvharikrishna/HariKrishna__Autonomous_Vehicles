@@ -1,14 +1,16 @@
 <!-- README: HariKrishn_SelfDrivingCars-->
 <p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p>
+<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p><br>
+
+<!-- Introduction GIF -->
+<p align="center">
+    <img src="readme_data/avgif.gif" alt="Self-driving vehicle illustration" width="1111"/>
+</p>
 
 <!-- Introduction to Self-Driving Vehicles -->
 <h1>🔻 What are Self-Driving Vehicles? </h1>
 <p align='justify'>
 A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is a car or truck equipped with technology that enables it to navigate and operate without human input. These vehicles utilize sensors, cameras, radar, and artificial intelligence to perceive their surroundings and make decisions to safely reach their destination, transforming the concept of driving and mobility.
-</p>
-<p align="center">
-    <img src="readme_data/selfdrivingcar.png" alt="Self-driving vehicle illustration" width="651"/>
 </p>
 
 <!-- Introduction to Carla Simulator -->
