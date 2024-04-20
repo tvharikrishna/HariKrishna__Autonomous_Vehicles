@@ -134,20 +134,10 @@ I understand your excitement to download these projects and start running them i
 
 <h1>🔻 Tools & Technologies</h1>
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=black" alt="Linux" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS%20Bridged%20CARLA-007ACC.svg?&style=flat-square&logo=simScale&logoColor=white" alt="ROS Bridge CARLA" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/RVIZ-000000.svg?&style=flat-square&logo=ros&logoColor=white" alt="Gazebo" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CUDA-76B900.svg?&style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="Python" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="height: 25px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" style="height: 25px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS 1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 35px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS 2-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 35px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 35px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Autoware-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 35px;"/> &nbsp;
 
 <hr>
 
