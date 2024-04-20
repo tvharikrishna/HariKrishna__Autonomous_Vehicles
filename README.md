@@ -4,7 +4,7 @@
 
 <!-- Introduction GIF -->
 <p align="center">
-    <img src="readme_data/avgif.gif" alt="Self-driving vehicle illustration" width=""/>
+    <img src="readme_data/av_intro.gif" alt="Self-driving vehicle illustration" width=""/>
 </p>
 
 <!-- Introduction to Self-Driving Vehicles -->
@@ -19,7 +19,7 @@ A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is
 The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong> platform developed using the Unreal Engine, aimed at crafting highly authentic virtual training and validation environments for autonomous driving systems. The platform grants access to a wide range of digital assets including urban layouts, buildings, and vehicles etc.
 </p>
 <p align="center">
-    <img src="readme_data/hk_carla_window.png" alt="Carla Simulator interface" width="1000"/>
+    <img src="readme_data/hk_carla_window.png" alt="Carla Simulator interface" width="800"/>
 </p>
 
 <!-- Details about Carla Simulator's capabilities -->
@@ -31,21 +31,32 @@ The CARLA simulator is a robust <strong>self-driving vehicle simulation</strong>
 ▸ Scenarios for critical response training, including unexpected roadblocks and unpredictable actions from pedestrians and other drivers.
 </p>
 
+<!-- Introduction to The Autoware Foundation -->
+<h1>🔻 What is The Autoware Foundation? </h1>
+<p align='justify'>
+The <strong>Autoware Foundation</strong> is a non-profit organization dedicated to promoting open-source projects that facilitate the development of autonomous driving technology. This stack includes tools and libraries designed to offer a comprehensive solution for various autonomous driving needs, from perception to planning and control.
+</p>
+
+<!-- Merging both -->
+<h1>🔻 Carla x Autoware </h1>
+<p align='justify'>
+Integrating the <strong>Autoware Foundation's</strong> software with the <strong>CARLA simulator</strong> enhances autonomous vehicle projects by merging real-time autonomous driving capabilities with a robust simulation environment. This combination allows developers to conduct extensive testing and refine vehicle behaviors in a safe, controlled virtual setting, accelerating development and ensuring the reliability of autonomous systems before real-world deployment.
+</p>
+
 <!-- Repository Overview -->
 <h1>🔻 Repository Detail</h1>
 <p align='justify'>
-This repository documents my comprehensive journey through diverse projects in Autonomous Driving using the Carla Simulator. Each project carefully addresses distinct challenges within autonomous systems, demonstrating the thorough application and exceptional efficacy of techniques such as deep learning, motion control, and motion planning in processing and comprehending intricate self-driving car data.
+This repository showcases a series of CARLA projects that integrate both <strong>ROS1</strong> and <strong>ROS2</strong> with <strong>Autoware</strong> for pioneering autonomous driving applications. Each project leverages this powerful combination to tackle unique challenges in autonomous systems, demonstrating advanced capabilities in real-time vehicle control, sensory processing, and autonomous navigation.
 </p>
 
 <!-- Emphasis on Basics -->
 <h1>🔻 Basics are key❗️</h1>
 <p align='justify'>
-I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensor technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.
-</p> <br>
+It's essential to have a basic understanding of sensor technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.
+</p>
 
 <!-- Roadmap for learning -->
 <h1 align="center">🚗 Perception 👀 Sensing 📡 Navigation ⛐ </h1>
-<p align="center"><h2>💠 Roadmap </h2></p>
 <div align="center">
     
 <table>
@@ -132,14 +143,14 @@ I understand your excitement to download these projects and start running them i
     </a>
 </div>
 
-<h1>🔻 Tools & Technologies</h1>
-
-<img src="https://img.shields.io/badge/ROS 1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS 2-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS Bridged-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS  Bridge" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CARLA-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Autoware-800000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 30px;"/> &nbsp;
-<hr>
+<h1>🔻 Frameworks</h1>
+<ul>
+    <li><a href="https://www.ros.org/">ROS 1</a></li>
+    <li><a href="https://docs.ros.org/en/foxy/index.html">ROS 2</a></li>
+    <li><a href="https://autoware.org/">The Autoware Foundation</a></li>
+    <li><a href="https://carla.org/">Carla Simulator</a></li>
+</ul>
+<hr><br><br>
 
 <!-- Closing image -->
 <p align="center">
