@@ -134,10 +134,10 @@ I understand your excitement to download these projects and start running them i
 
 <h1>🔻 Tools & Technologies</h1>
 
-<img src="https://img.shields.io/badge/ROS 1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 35px;"/> &nbsp;
-<img src="https://img.shields.io/badge/ROS 2-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 35px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 35px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Autoware-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 35px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS 1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/ROS 2-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Autoware-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 30px;"/> &nbsp;
 
 <hr>
 
