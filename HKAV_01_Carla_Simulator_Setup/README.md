@@ -212,10 +212,14 @@ Please follow the instructions in the provided link to install the ROS Bridge fo
 ---------------------------------------------
 
 <h2>💠 <code>ERROR == numpy.bool or np.bool error in camera.py</code> </h2></p>
-After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' launch files, you may or may not encounter an error. If you do encounter an error, the issue will likely be in the 'camera.py' script located in the 'rosbridge' Catkin workspace.
+After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' launch files, you may or may not encounter an error. If you do encounter an error, the issue will likely be in the 'camera.py' script located in the 'rosbridge' Catkin workspace. <br><br>
+
+`PATH to camera.py` <br>
+/home/your_user_name/carla-ros-bridge/install/carla_ros_bridge/lib/python3.8/site-packages/carla_ros_bridge
 
 `SOLUTION`<br>
 To resolve this, open the `camera.py` file and, at the end of the file, replace `numpy.bool` with `numpy.bool_`.
+
 
 ---------------------------------------------
 
