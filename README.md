@@ -39,15 +39,13 @@ This repository documents my comprehensive journey through diverse projects in A
 <h1>🔻 Basics are key❗️</h1>
 <p align='justify'>
 I understand your excitement to download these projects and start running them immediately. However, doing so won't be very beneficial. If you truly want to build and train autonomous systems, it's essential to have a basic understanding of sensor technology, robotics, in-depth knowledge of computer vision, and the fundamentals of self-driving cars. Below are some of my recommendations I created.
-</p>
-
-<br>
+</p> <br>
 
 <!-- Roadmap for learning -->
 <h1 align="center">🚗 Perception 👀 Sensing 📡 Navigation ⛐ </h1>
 <p align="center"><h2>💠 Roadmap </h2></p>
 <div align="center">
-<!-- Core concepts table -->
+    
 <table>
 <tr>
     <th colspan="3">Core of Autonomous Vehicles</th>
@@ -136,9 +134,9 @@ I understand your excitement to download these projects and start running them i
 
 <img src="https://img.shields.io/badge/ROS 1-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 1" style="height: 30px;"/> &nbsp;
 <img src="https://img.shields.io/badge/ROS 2-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS 2" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/CARLA%20Simulator-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 30px;"/> &nbsp;
-<img src="https://img.shields.io/badge/Autoware-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 30px;"/> &nbsp;
-
+<img src="https://img.shields.io/badge/ROS Bridged-22314E.svg?&style=flat-square&logo=ros&logoColor=white" alt="ROS  Bridge" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/CARLA-FF0000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="CARLA Simulator" style="height: 30px;"/> &nbsp;
+<img src="https://img.shields.io/badge/Autoware-800000.svg?&style=flat-square&logo=tesla&logoColor=white" alt="Autoware Bridged" style="height: 30px;"/> &nbsp;
 <hr>
 
 <!-- Closing image -->
