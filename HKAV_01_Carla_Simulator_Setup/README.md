@@ -20,9 +20,7 @@ The CARLA simulator is an open-source platform designed to support the developme
 
 3) **Clean and Fresh OS:** This installation guide is designed to assist with a from-scratch installation, which means starting with a clean slate,         
  `(1 and 2 Completed)`, then installing ROS, required libraries, and finally the CARLA simulator. It is ***advisable to begin with no pre-installed packages to avoid conflicts*** with the installation steps outlined in this guide.
-</p>
-
----------------------------------------------
+</p><hr>
 
 # ➡️ Installation Phases
 
@@ -33,7 +31,7 @@ The CARLA simulator is an open-source platform designed to support the developme
 | **PHASE 3** | Addressing any `errors` that may occur post-installation or during the initial run of Carla. |
 | **PHASE 4** | Installation of the `ROS-Bridge`. |
 
----------------------------------------------
+<hr>
 
 # ➡️ PHASE 1 = Install all essential libraries and set up ROS Noetic.
 <p align='justify'>
@@ -101,7 +99,7 @@ The commands provided are useful for setting up a Linux-based development enviro
     cd ~/catkin_ws/
     catkin build
 
----------------------------------------------
+<hr>
 
 # ➡️ PHASE 2 = Installation of the `Carla Simulator`
 For this phase, you should refer to the official documentation provided by the Carla Simulator, which has proven effective for all users. <br> Pay close attention and meticulously follow the instructions from the `Before you begin` section to `Running CARLA`.
@@ -110,7 +108,7 @@ For this phase, you should refer to the official documentation provided by the C
     
 If you run into any problems, especially when trying to run Carla, that's what PHASE 3 is for—to help fix those issues.
 
----------------------------------------------
+<hr>
 
 # ➡️ PHASE 3 = Addressing any `errors` that may occur post-installation or during the initial run of Carla.
 <p align='justify'>
@@ -118,7 +116,7 @@ In this phase, some individuals might encounter errors, whereas others might not
 To address this, we have outlined some common errors and their respective troubleshooting steps below, ensuring you have the guidance needed to resolve any issues that may come up while running Carla for the first time.
 </p>
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code> ERROR 1 ➞ Inadequate GPU Resources </code> </h2></p>
 
@@ -136,7 +134,7 @@ To address this, we have outlined some common errors and their respective troubl
 The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicating insufficient memory to execute a command and a loss of the device connection (VK_ERROR_DEVICE_LOST), leading to a segmentation fault (Signal 11). This typically points to issues such as inadequate GPU resources, outdated drivers, or a hardware malfunction. Ensuring that your system meets CARLA's requirements, updating your graphics drivers, and checking resource availability could help resolve the problem.
 </p>
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code> ERROR 2 == Disable NVIDIA Vulkan Driver Permanently</code> </h2></p>
 
@@ -149,7 +147,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ▸ These files tell the Vulkan loader which drivers to load on the system.<br>
 ▸ The user lists the files in that directory and then moves the `nvidia_icd.json` file to `nvidia_icd.json.backup` ***effectively disabling the NVIDIA Vulkan driver.*** <br>
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code> ERROR 3 == When "./CarlaUE4.sh -opengl" FAILS</code> </h2></p>
 
@@ -175,7 +173,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
   <img src="readme_data//error_3_sol.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code> ERROR 4 == No Module Named Carla</code> </h2></p>
 
@@ -188,7 +186,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
 ▸ Check working directory <br>
 ▸ Source bashrc file <br>
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code>No Error == Launch Successfull</code> </h2></p>
 
@@ -196,7 +194,7 @@ The error suggests a problem with the Vulkan graphics API on an AMD GPU, indicat
   <img src="readme_data//succeed.jpeg" alt="Project Logo Cover" width="700"/>
 </p>
 
----------------------------------------------
+<hr>
 
 # ➡️ PHASE 4 = Installation of the <code>ROS Bridge</code>
 <p align='justify'>
@@ -209,7 +207,7 @@ Now, for the last step, we need to connect your Carla simulator with ROS. This c
     
 Please follow the instructions in the provided link to install the ROS Bridge for Carla.
 
----------------------------------------------
+<hr>
 
 <h2>💠 <code>ERROR == numpy.bool or np.bool error in camera.py</code> </h2></p>
 After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' launch files, you may or may not encounter an error. If you do encounter an error, the issue will likely be in the 'camera.py' script located in the 'rosbridge' Catkin workspace. <br><br>
@@ -220,9 +218,7 @@ After installing ROS Bridge, when launching the 'rosbridge' or 'spawnobjects' la
 `SOLUTION`<br>
 To resolve this, open the `camera.py` file and, at the end of the file, replace `numpy.bool` with `numpy.bool_`.
 
-
----------------------------------------------
-<br><br>
+<hr><br><br>
 <p align="center">
   <img src="readme_data//HKAD_quote.png" alt="Project Logo Cover" width="1111"/>
 </p>
