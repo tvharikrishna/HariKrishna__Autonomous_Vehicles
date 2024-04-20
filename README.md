@@ -4,7 +4,7 @@
 
 <!-- Introduction GIF -->
 <p align="center">
-    <img src="readme_data/avgif.gif" alt="Self-driving vehicle illustration" width="1111"/>
+    <img src="readme_data/avgif.gif" alt="Self-driving vehicle illustration" width=""/>
 </p>
 
 <!-- Introduction to Self-Driving Vehicles -->
