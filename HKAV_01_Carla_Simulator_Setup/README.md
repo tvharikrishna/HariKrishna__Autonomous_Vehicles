@@ -222,7 +222,7 @@ To resolve this, open the `camera.py` file and, at the end of the file, replace 
 
 
 ---------------------------------------------
-
+<br><br>
 <p align="center">
   <img src="readme_data//HKAD_quote.png" alt="Project Logo Cover" width="1111"/>
 </p>
