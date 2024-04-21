@@ -19,16 +19,23 @@ A <strong>self-driving vehicle</strong>, also known as an autonomous vehicle, is
 The CARLA simulator is a leading <strong>self-driving vehicle simulation</strong> platform based on Unreal Engine. It creates realistic environments to test autonomous driving technologies, offering various urban and vehicle setups. It also simulates tough driving conditions like bad weather, varied traffic scenarios, and emergency situations, which helps in improving vehicle perception and behavior.
 </p>
 
-<!-- Introduction to The Autoware Foundation -->
-<h1>🔻 What is The Autoware Foundation? </h1>
+<!-- Introduction to The Apollo Foundation -->
+<h1>🔻 What is The Apollo Foundation? </h1>
 <p align='justify'>
-The <strong>Autoware Foundation</strong> is a non-profit organization focused on advancing open-source autonomous driving technology. It provides a full suite of tools and libraries that support everything from sensing the environment to vehicle planning and control.
+The <strong>Apollo Foundation</strong> is a non-profit organization dedicated to advancing open-source autonomous driving technology. It provides a comprehensive suite of tools and libraries that support a range of functions from environmental sensing to vehicle planning and control. nApollo's platform includes robust capabilities for simulation, perception, decision making, and cloud data services, making it a comprehensive resource for developers and researchers in the field of autonomous driving.
 </p>
 
 <!-- Merging both -->
-<h1>🔻 Carla ∧ Autoware </h1>
+<h1>🔻 Carla ∧ Apollo </h1>
 <p align='justify'>
-By combining the <strong>Autoware Foundation's</strong> software with the <strong>CARLA simulator</strong>, developers can significantly enhance autonomous vehicle projects. This integration allows for extensive testing and improvement of vehicle systems in a virtual setup, speeding up development and ensuring systems are reliable before being used in the real world.
+By combining the <strong>Apollo Foundation's</strong> software with the <strong>CARLA simulator</strong>, developers can significantly enhance autonomous vehicle projects. This integration allows for extensive testing and improvement of vehicle systems in a virtual setup, speeding up development and ensuring systems are reliable before being used in the real world.
+<ul>
+  <li><strong>High-precision Localization:</strong> Utilizes GPS, IMU, and LiDAR inputs to provide accurate positioning within the virtual environment.</li>
+  <li><strong>Perception:</strong> Employs machine learning algorithms for object detection, classification, and tracking, enabling vehicles to understand and react to their surroundings.</li>
+  <li><strong>Routine Planning:</strong> Offers sophisticated algorithms for route planning and optimization, adapting dynamically to changes in the environment.</li>
+  <li><strong>Control:</strong> Implements advanced control systems that ensure the vehicle operates safely and efficiently under various simulated conditions.</li>
+  <li><strong>Simulation Management:</strong> Integrates with CARLA's environment to provide a scalable testing framework that can simulate thousands of driving scenarios to validate the robustness and safety of autonomous systems.</li>
+</ul>
 </p>
 
 <!-- Repository Overview -->
