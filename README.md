@@ -9,7 +9,22 @@
 <h1>🔻 Repository Detail</h1>
 <p align='justify'>
 This repository features CARLA projects that use both <strong>ROS1</strong> and <strong>ROS2</strong> with <strong>Apollo</strong> to drive forward autonomous driving technology. Each project uses this combination to address unique challenges in autonomous systems, showcasing advanced skills in vehicle control, sensory integration, and navigation.
-</p>
+</p><br>
+
+<table align="center">
+<thead>
+<tr>
+<th align="center">Naming Prefix</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>HK_AV__</strong></td>
+<td align="right">Simulations in Carla ^ Apollo</td>
+</tr>
+</tbody>
+</table>
 
 <h1>🔻 What are Self-Driving Vehicles? </h1>
 <p align='justify'>
