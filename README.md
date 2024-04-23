@@ -21,7 +21,7 @@ This repository features CARLA projects that use both <strong>ROS1</strong> and 
 <tbody>
 <tr>
 <td align="left"><strong>HK_AV__</strong></td>
-<td align="right">Simulations in Carla ^ Apollo</td>
+<td align="right">Simulations in Carla ∧ Apollo</td>
 </tr>
 </tbody>
 </table>
