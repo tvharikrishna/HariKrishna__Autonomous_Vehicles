@@ -6,7 +6,7 @@
 
 # Project Overview
 
-Apollo is owned by GuardStrikeLab.
+Apollo is owned by GuardStrikeLab (synkrotron.ai).
 
 # A) Official Links and Repositories
 
@@ -115,7 +115,7 @@ python examples/generate_traffic.py --async
 
 <hr> 
 
-### Closing Sessions
+# D) Closing Sessions
 
 #### Closing Docker Containers
 
