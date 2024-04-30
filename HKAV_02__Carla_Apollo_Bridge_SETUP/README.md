@@ -4,24 +4,21 @@
   <img src="readme_data//carla_apollo.png" alt="Project Logo Cover" width="1111"/>
 </p>
 
-# Project Overview
+# ➡️ Official Links and Repositories
 
-Apollo is owned by GuardStrikeLab (synkrotron.ai).
-
-# A) Official Links and Repositories
-
+- Apollo is owned by GuardStrikeLab (synkrotron.ai)
 - **GuardStrikeLab GitHub**: [Apollo Main Repository](https://github.com/guardstrikelab)
 - **Carla Apollo Bridge Details**: [CARLA and Apollo Integration](https://carla.org/2022/11/28/carla-apollo-bridge/)
 - **Carla Apollo Bridge Repository**: [GitHub Repo](https://github.com/guardstrikelab/carla_apollo_bridge)
 - **Apollo Repository**: [GitHub Repo](https://github.com/guardstrikelab/apollo)
 
-# B) Complete Setup Instructions
+# ➡️ Complete Setup Instructions
 
 For a comprehensive guide on setting up the Apollo-Carla integration, refer to the detailed documentation provided by MaisJamal. The repository contains all necessary instructions and resources:
 
 - **MaisJamal's Repository**: [Carla-Apollo Bridge Setup](https://github.com/MaisJamal/carla_apollo_bridge.git)
 
-# C) Instructions to start the entire software stack
+# ➡️ Instructions to start the entire software stack
 
 ### Terminal 1: Apollo Docker and DreamView
 
@@ -115,7 +112,7 @@ python examples/generate_traffic.py --async
 
 <hr> 
 
-# D) Closing Sessions
+# ➡️ Closing Sessions
 
 #### Closing Docker Containers
 
@@ -135,7 +132,7 @@ docker stop carla-server apollo_dev_radhakrishna
 docker rm carla-server apollo_dev_radhakrishna
 ```
 
-<hr><br><br>
+<hr> <br> <br>
 <p align="center">
   <img src="readme_data//HKAD_quote.png" alt="Project Logo Cover" width="1111"/>
 </p>
