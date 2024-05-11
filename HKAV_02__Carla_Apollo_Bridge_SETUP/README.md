@@ -1,8 +1,13 @@
-<p align="right">15 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚 </p> <br>
-
 <p align="center">
   <img src="readme_data//carla_apollo.png" alt="Project Logo Cover" width="1111"/>
-</p>
+</p>  <hr>  <br> 
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7o2KtJvdgbA">
+    <img src="https://img.shields.io/badge/Video-Demonstration of Apollo Carla Bridge-blue" alt="Video" width="420" height="35"/>
+  </a>
+</p> <br>
+
 
 # ➡️ Official Links and Repositories
 
@@ -20,27 +25,27 @@ For a comprehensive guide on setting up the Apollo-Carla integration, refer to t
 
 # ➡️ Instructions to start the entire software stack
 
-### Terminal 1: Apollo Docker and DreamView
+## Terminal 1: Apollo Docker and DreamView
 
-#### 1.1 Start Apollo Docker Container
+### 1.1 Start Apollo Docker Container
 Initiate the Apollo Docker container with the following command:
 ```bash
 bash docker/scripts/dev_start.sh
 ```
 
-#### 1.2 Attach to Docker Container
+### 1.2 Attach to Docker Container
 Connect to the running Apollo Docker container:
 ```bash
 bash docker/scripts/dev_into.sh
 ```
 
-#### 1.3 Build Apollo (Only Required Once)
+### 1.3 Build Apollo (Only Required Once)
 Compile Apollo with GPU support:
 ```bash
 ./apollo.sh build_gpu
 ```
 
-### Terminal 2: Carla Docker
+## Terminal 2: Carla Docker
 
 #### 1.4 Start Carla Simulator
 Start the Carla simulator with the following docker command:
@@ -48,62 +53,62 @@ Start the Carla simulator with the following docker command:
 docker run -it --privileged -v /tmp/.X11-unix:/tmp/.X11-unix:rw -v /usr/lib/nvidia:/usr/lib/nvidia --device /dev/dri --rm -e __NV_PRIME_RENDER_OFFLOAD=1 -e __GLX_VENDOR_LIBRARY_NAME=nvidia -e DISPLAY=$DISPLAY -e NVIDIA_VISIBLE_DEVICES=all -e NVIDIA_DRIVER_CAPABILITIES=all --gpus=all --name=carla-server --net=host -d carlasim/carla:0.9.13
 ```
 
-#### 1.5 Build Carla Docker (Only Required Once)
+### 1.5 Build Carla Docker (Only Required Once)
 Navigate to the `docker` directory and build the Docker container:
 ```bash
 cd docker
 ./build_docker.sh
 ```
 
-#### 1.6 Run Carla Docker
+### 1.6 Run Carla Docker
 Execute the Docker run script:
 ```bash
 ./run_docker.sh
 ```
 
-#### 1.7 Enter Docker Container
+### 1.7 Enter Docker Container
 Access the running Carla Docker container:
 ```bash
 docker exec -ti carla-apollo-13 bash
 ```
 
-#### 1.8 Change Working Directory
+### 1.8 Change Working Directory
 Navigate to the main working directory inside the container:
 ```bash
 cd ~/carla_apollo_bridge_13/
 ```
 
-#### 1.9 Run Carla Simulator
+### 1.9 Run Carla Simulator
 Start the Carla simulator:
 ```bash
 python carla-python-0.9.13/util/config.py -m Town01 --host 172.17.0.1
 ```
 
-#### 2.0 Start Carla Manual Control
+### 2.0 Start Carla Manual Control
 Run manual control to interact with the simulator:
 ```bash
 python examples/manual_control.py
 ```
 
-#### 2.1 Start the Carla-Apollo Bridge
+### 2.1 Start the Carla-Apollo Bridge
 Facilitate communication between Carla and Apollo:
 ```bash
 python carla_cyber_bridge/run_bridge.py
 ```
 
-#### 2.2 Start Dreamview
+### 2.2 Start Dreamview
 Launch the Dreamview web interface:
 ```bash
 bash scripts/bootstrap.sh
 ```
 
-#### 2.3 View Dreamview
+### 2.3 View Dreamview
 Access Dreamview in a web browser at:
 ```plaintext
 http://localhost:8888/
 ```
 
-#### 2.4 Change the Map or Spawn Traffic
+### 2.4 Change the Map or Spawn Traffic
 Modify the simulation environment:
 ```bash
 python carla-python-0.9.13/util/config.py -m Town04 --host 172.17.0.1
@@ -116,13 +121,13 @@ python examples/generate_traffic.py --async
 
 #### Closing Docker Containers
 
-#### Stop Dreamview
+### Stop Dreamview
 Shut down Apollo Dreamview:
 ```bash
 bash scripts/bootstrap.sh stop
 ```
 
-#### Properly stop and remove Docker containers after use:
+### Properly stop and remove Docker containers after use:
 
 ```bash
 # Stop the Carla and Apollo containers
