@@ -1,12 +1,23 @@
+<table align="center" width="100%">
+  <tr>
+    <td align="left">
+      <img src="readme_data/project_title1.png" alt="Project Logo Cover" width="555"/>
+    </td>
+    <td align="right">
+      <img src="readme_data/project_title2.png" alt="Project Logo Cover" width="555"/>
+    </td>
+  </tr>
+</table> <br>
+
 <p align="center">
-  <img src="readme_data//carla_apollo.png" alt="Project Logo Cover" width="1111"/>
-</p>  <hr>  <br> 
+  <img src="readme_data//project_title3.png" alt="Project Logo Cover" width="1111"/>
+</p> <br> 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7o2KtJvdgbA">
     <img src="https://img.shields.io/badge/Video-Demonstration of Apollo Carla Bridge-blue" alt="Video" width="420" height="35"/>
   </a>
-</p> <br>
+</p> <hr> <br>
 
 
 # ➡️ Official Links and Repositories
