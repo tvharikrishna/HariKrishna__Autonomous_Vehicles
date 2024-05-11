@@ -1,9 +1,12 @@
-<p align="right">© 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗯𝘆 𝘁𝘃𝗵𝗮𝗿𝗶𝗸𝗿𝗶𝘀𝗵𝗻𝗮</p>
-<p align="right">1 𝘮𝘪𝘯𝘶𝘵𝘦 𝘳𝘦𝘢𝘥 📚</p><br>
-
 <p align="center">
     <img src="readme_data/av_welcome.png" alt="Self-driving vehicle illustration" width=""/>
-</p><br>
+</p> <br>
+
+<p align="center">
+  <a href="https://www.youtube.com/playlist?list=PL0phN1wjvpsavPX22NFqOEhJeY4hewRKv">
+    <img src="https://img.shields.io/badge/Full Projects Playlist-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white" alt="Full YouTube Playlist" width="220" height="30"/>
+  </a>
+</p> <br> <br>
 
 <!-- Repository Overview -->
 <h1>🔻 Repository Detail</h1>
