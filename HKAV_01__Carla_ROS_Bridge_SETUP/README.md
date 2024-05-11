@@ -1,8 +1,12 @@
-# ➡️ Introduction to Carla Simulator & Setup Guide
+<p align="center">
+  <img src="readme_data/project_title2.png" alt="Project Logo Cover" width="1500"/>
+</p> <br> 
 
 <p align="center">
-  <img src="readme_data/project_title.png" alt="Project Logo Cover" width="1500"/>
-</p>
+  <img src="readme_data/project_title1.png" alt="Project Logo Cover" width="1500"/>
+</p> <br> 
+
+# ➡️ Introduction to Carla Simulator & Setup Guide
 
 <h2>💠 What is Carla Simulator ? </h2></p>
 <p align='justify'>
